@@ -27,15 +27,15 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "c937889ad324781b14a72a43fcce8edb"
+    "revision": "dd3039e1b2d235f0c83567a31478b1f9"
   },
   {
     "url": "api/cli.html",
-    "revision": "108ed4218f364b2b534affea11c28d3b"
+    "revision": "8eb9cd689c7bd423690196a6338d791c"
   },
   {
     "url": "api/node.html",
-    "revision": "8c1585afdf38374ff240ea6fb1386b37"
+    "revision": "f8fc2bf44a9a7019146cb6244f490d09"
   },
   {
     "url": "architecture.png",
@@ -214,12 +214,12 @@ self.__precacheManifest = [
     "revision": "31a63008227be5b08632bb7a4e7a9fc5"
   },
   {
-    "url": "assets/js/137.4743a898.js",
-    "revision": "a03c33cc7b8cd1d0fb53ff0ab2245ed6"
+    "url": "assets/js/137.1c7c4f2b.js",
+    "revision": "f4a157876b52f77be4ed4772d7142f1e"
   },
   {
-    "url": "assets/js/138.0935e22e.js",
-    "revision": "7d5d88a1b0bc9c353eb6afc618684eff"
+    "url": "assets/js/138.c1147a67.js",
+    "revision": "5442a74fafd8cc6f84571157867e3ca7"
   },
   {
     "url": "assets/js/139.97c27efa.js",
@@ -278,12 +278,12 @@ self.__precacheManifest = [
     "revision": "264407eb0f6cf5e0f5924e8bf3cd6e62"
   },
   {
-    "url": "assets/js/151.b5d61ac6.js",
-    "revision": "910855b7cc40402826b1cafe807c1bd6"
+    "url": "assets/js/151.6e09ae36.js",
+    "revision": "05b0e9b0a98b573ca67827dc9f9e5827"
   },
   {
-    "url": "assets/js/152.1bdcadf0.js",
-    "revision": "c5554b80d4bd195ccf36d77d630318ba"
+    "url": "assets/js/152.220bd7f2.js",
+    "revision": "7219926cc23bad47af647557aa222ab7"
   },
   {
     "url": "assets/js/153.a56113f4.js",
@@ -310,16 +310,16 @@ self.__precacheManifest = [
     "revision": "252b38a930f991ddde9a105d5cc5ccf5"
   },
   {
-    "url": "assets/js/159.2b59cddb.js",
-    "revision": "bf6d8ed8bc4df32ae6e2dc73fb4572cd"
+    "url": "assets/js/159.3bc23fd9.js",
+    "revision": "484acdc7bb01d046f5ad5926296700b5"
   },
   {
     "url": "assets/js/16.29d5616a.js",
     "revision": "05483ad469a07043a4991e257702e3c3"
   },
   {
-    "url": "assets/js/160.491a1644.js",
-    "revision": "77a0f3cad4d8c094076e65d05fe34453"
+    "url": "assets/js/160.7f790127.js",
+    "revision": "1d712abf15c22bd5a59750ecdb8e8536"
   },
   {
     "url": "assets/js/161.a24a6640.js",
@@ -1186,8 +1186,8 @@ self.__precacheManifest = [
     "revision": "b75202b36f00fbec816554d31f6a3c87"
   },
   {
-    "url": "assets/js/358.5ff996bd.js",
-    "revision": "61b0a7868c2521c9b8b0173170323d97"
+    "url": "assets/js/358.eea83a7a.js",
+    "revision": "286ebf733e78116d78cb6c66c4b791fb"
   },
   {
     "url": "assets/js/359.39c62611.js",
@@ -1202,8 +1202,8 @@ self.__precacheManifest = [
     "revision": "b6060c592e73599da2c880e3a64906c8"
   },
   {
-    "url": "assets/js/361.fddce70f.js",
-    "revision": "0cc6569ac62f3fa610b85fa2b1498364"
+    "url": "assets/js/361.1633809f.js",
+    "revision": "74bcd7ae8f5c21c6d3a9f75dbeae10eb"
   },
   {
     "url": "assets/js/362.316f8274.js",
@@ -1502,8 +1502,8 @@ self.__precacheManifest = [
     "revision": "ccf218f4ebb2ba7e4932b22d98c3959a"
   },
   {
-    "url": "assets/js/43.7febc99f.js",
-    "revision": "34c44c213395bd30bb2b02df23725e0e"
+    "url": "assets/js/43.143b7685.js",
+    "revision": "ae67ffe05481deb733f2f7f20c9491c5"
   },
   {
     "url": "assets/js/430.9ab1a92d.js",
@@ -1546,8 +1546,8 @@ self.__precacheManifest = [
     "revision": "22f99c935427562c032b2e2c985a6d73"
   },
   {
-    "url": "assets/js/44.9b523207.js",
-    "revision": "b929bd96aac36958e06877583d968a59"
+    "url": "assets/js/44.4e7170c3.js",
+    "revision": "c440a8f6e3347865f0654caf26322ef6"
   },
   {
     "url": "assets/js/440.5b35af85.js",
@@ -2082,12 +2082,12 @@ self.__precacheManifest = [
     "revision": "8a83a2546dff09d876e70755dda7747e"
   },
   {
-    "url": "assets/js/560.33961836.js",
-    "revision": "ca36f6597a90f609f2dacf379ae89c04"
+    "url": "assets/js/560.747d4731.js",
+    "revision": "722a576574103440e40e817d7a25cb7a"
   },
   {
-    "url": "assets/js/561.57ff1142.js",
-    "revision": "fab59bf0acaf83bce6ae19573cd0bffb"
+    "url": "assets/js/561.b473690a.js",
+    "revision": "e9791743c901c1eb4e8a845247fdd7fc"
   },
   {
     "url": "assets/js/562.0470320d.js",
@@ -2338,8 +2338,8 @@ self.__precacheManifest = [
     "revision": "41422a23137182c1217a5eb8fa818c96"
   },
   {
-    "url": "assets/js/app.635daab3.js",
-    "revision": "0d2f235bcddd7478e5a2efd2f41cd588"
+    "url": "assets/js/app.b3c1ead4.js",
+    "revision": "4dd4f61b190c127ccf578c09bb226e3c"
   },
   {
     "url": "assets/js/vendors~docsearch.b9debe6d.js",
@@ -2355,11 +2355,31 @@ self.__precacheManifest = [
   },
   {
     "url": "config/index.html",
-    "revision": "66ac93a998392e616228c0908183e9ea"
+    "revision": "7b461cc18f16767b16ddcea43f012551"
   },
   {
     "url": "faq/index.html",
-    "revision": "0b0929d28498efea290ced88513a33b0"
+    "revision": "bd0430c1dc8a649a8e6be773c114b544"
+  },
+  {
+    "url": "guide_linux1.jpg",
+    "revision": "dfe3b4a32135f8592dc2a03e0640c7be"
+  },
+  {
+    "url": "guide_linux2.jpg",
+    "revision": "c176fa48606ef9b5f383a107f8533b5f"
+  },
+  {
+    "url": "guide_linux3.jpg",
+    "revision": "92211e87e3fd0a9f35556af08d870caa"
+  },
+  {
+    "url": "guide_linux4.jpg",
+    "revision": "f702e1b028eaaa825c62889d15eb3ccc"
+  },
+  {
+    "url": "guide_linux5.jpg",
+    "revision": "69933fd4ab3b41bfa18b92af497f5153"
   },
   {
     "url": "guide.jpg",
@@ -2367,55 +2387,63 @@ self.__precacheManifest = [
   },
   {
     "url": "guide/assets.html",
-    "revision": "0847b751d813ed55bd7bc8a944457e7d"
+    "revision": "3f1a68abdadccedd72ae32e6691612bf"
   },
   {
     "url": "guide/basic-config.html",
-    "revision": "8e080b6f0ba689baa4ed031162671e87"
+    "revision": "c12d4c5a77185e1d3eeb28627e972e7d"
   },
   {
     "url": "guide/deploy.html",
-    "revision": "8ae63be580ed57a8051e63cddd7d02e6"
+    "revision": "263d67cb9d6fe9ccfd7f1209de9f1d22"
   },
   {
     "url": "guide/directory-structure.html",
-    "revision": "9b3bee80e7b302440c413dd24842083b"
+    "revision": "e6bdf429aa5b70fba281817340d88ff0"
   },
   {
     "url": "guide/frontmatter.html",
-    "revision": "991c6e1a680a5bf8d7c11069abe89020"
+    "revision": "407e8a68f7718e2e9739ed5c4549cb42"
   },
   {
     "url": "guide/getting-started.html",
-    "revision": "ac0517e7d67e2f4b529f18a7f214995f"
+    "revision": "f8811be5583d46443bc55994aea0a900"
   },
   {
     "url": "guide/global-computed.html",
-    "revision": "92ef6a419fbd967f8e0f151fd3b50c2a"
+    "revision": "b18550f765ea87243139f24c41dc0a1c"
   },
   {
     "url": "guide/i18n.html",
-    "revision": "4a658c3fe1c04b747e5663499618c814"
+    "revision": "e54681ff306de8b3762ed39ef45d2224"
   },
   {
     "url": "guide/index.html",
-    "revision": "7307f8a418cf5015b071dcb4a80ab653"
+    "revision": "d30cf0e741dbcd887ead49c7bca5fa9a"
   },
   {
     "url": "guide/markdown-slot.html",
-    "revision": "cced829e884b84327fed9b40d933c0fb"
+    "revision": "15f92e06a5f252d0f3bec8a8b0c26304"
   },
   {
     "url": "guide/markdown.html",
-    "revision": "da7632533e024cdf08eafd2673d32187"
+    "revision": "db15a3186f13ab4fe8b8e171ebef433a"
   },
   {
     "url": "guide/permalinks.html",
-    "revision": "bada01acc61b4ddf1834dd27be4eed29"
+    "revision": "9a21a5fbd1a5d29c9f8bd7eda6989023"
   },
   {
     "url": "guide/using-vue.html",
-    "revision": "692f4d7892ede8bc6a5d9d18b05d850c"
+    "revision": "e64d70d651883ba3f1d314e43d5bc1a4"
+  },
+  {
+    "url": "guidesystem.jpg",
+    "revision": "2ddf6946aaacd83b64242945c7a01342"
+  },
+  {
+    "url": "guidesystem2.jpg",
+    "revision": "99872c679f2e53bc2c13339bdd07df9a"
   },
   {
     "url": "hero.png",
@@ -2503,7 +2531,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "fb345ce868283e6ed26e6af09bfbc010"
+    "revision": "fbca06e72f78ad0e446e9ca06ede492f"
   },
   {
     "url": "line-numbers-desktop.png",
@@ -2519,19 +2547,19 @@ self.__precacheManifest = [
   },
   {
     "url": "miscellaneous/design-concepts.html",
-    "revision": "8769d91d1b2f62ee92f2b96cc23ba6d5"
+    "revision": "f787ff5010df4b9a9d5437dcbda3a5f0"
   },
   {
     "url": "miscellaneous/glossary.html",
-    "revision": "e4b1eabaac07a0cc3d17ecca5f9cf136"
+    "revision": "ec07c78b08c9204f369c462ef9936097"
   },
   {
     "url": "miscellaneous/local-development.html",
-    "revision": "df2384b52d58ab56c7959fd6f93904de"
+    "revision": "5a67b862a191a3cf608e7120c434e534"
   },
   {
     "url": "miscellaneous/migration-guide.html",
-    "revision": "531d7559cb27d11f12820b4236670180"
+    "revision": "346ba19b51685a9099ac50b3b1bb12fc"
   },
   {
     "url": "network.jpg",
@@ -2547,2143 +2575,2143 @@ self.__precacheManifest = [
   },
   {
     "url": "plugin/context-api.html",
-    "revision": "18ac7e771cbb0a5b241c3f5cf227ae7a"
+    "revision": "415df7f0f7fbaf3f6548da0e78677927"
   },
   {
     "url": "plugin/index.html",
-    "revision": "9d34ad8222321855d3e3e7f223bb7bf2"
+    "revision": "d4e0d01904bef79bed1d59c47b60d484"
   },
   {
     "url": "plugin/life-cycle.html",
-    "revision": "32ffeaf8d9c2e97a448e0c111da770da"
+    "revision": "fb02b5abdbbd5e09972aba117b45e23d"
   },
   {
     "url": "plugin/official/plugin-active-header-links.html",
-    "revision": "788e5a3a6c1b3bdf81a84fc36c2326f8"
+    "revision": "57f805f89732e4402a06399ae179f79c"
   },
   {
     "url": "plugin/official/plugin-back-to-top.html",
-    "revision": "722c1e70da6c49ab24629befcd0ec3e5"
+    "revision": "f19ef62b7e52d9647a0faf8ce217b9ce"
   },
   {
     "url": "plugin/official/plugin-blog.html",
-    "revision": "6c701724149eca2ce81b61d620c32b78"
+    "revision": "c2a9a1f95459e476a9f02a7c1e052eea"
   },
   {
     "url": "plugin/official/plugin-google-analytics.html",
-    "revision": "4ae45a558b0e3d4a1ebfc62c68cc1328"
+    "revision": "c92829d1681e699cdd6f0658ae74c3cd"
   },
   {
     "url": "plugin/official/plugin-last-updated.html",
-    "revision": "5741bc0dbca0a549462303d36b6d0653"
+    "revision": "6c9966c3cc5129f3f5c46f8b52ef8cdf"
   },
   {
     "url": "plugin/official/plugin-medium-zoom.html",
-    "revision": "f3200d7b96707d4a3c3edbffa5487dd0"
+    "revision": "bd8e7d3a47c94fedbc57e6e102332ee4"
   },
   {
     "url": "plugin/official/plugin-nprogress.html",
-    "revision": "0363838b7e0837c0049376f865bf11a1"
+    "revision": "2079760e3486833583f1b1654e26228b"
   },
   {
     "url": "plugin/official/plugin-pwa.html",
-    "revision": "e114d6df00a8492947d6961242099fca"
+    "revision": "005a4d70e47787e9ec317139e54bc760"
   },
   {
     "url": "plugin/official/plugin-register-components.html",
-    "revision": "706e87b8e1f834cd771b13cfe87d85ed"
+    "revision": "be154af6f108067d7c8df93f625b19bf"
   },
   {
     "url": "plugin/official/plugin-search.html",
-    "revision": "4c39b02f19d6e6bade6ddeac35bacc53"
+    "revision": "a9fe83f0c1846c1847ecccc9ab59d1ba"
   },
   {
     "url": "plugin/option-api.html",
-    "revision": "043eb596c52e5a3559e653729bcc96f7"
+    "revision": "6b8535a6ad65d43a0d0b59c3d53f3d15"
   },
   {
     "url": "plugin/using-a-plugin.html",
-    "revision": "c5619ee95e3061c2284ad3817c588cf4"
+    "revision": "e721689351960a18d78ea469f8d35ac1"
   },
   {
     "url": "plugin/writing-a-plugin.html",
-    "revision": "12e4d2bd486d6fb2cf300f8fbddab111"
+    "revision": "598cfdaea3b8279bd20184d7168037f6"
   },
   {
     "url": "theme/blog-theme.html",
-    "revision": "28a01966f388d9ab8d24c438d847f7d4"
+    "revision": "0b5dd04c7f35ef08e1616c2da0a13001"
   },
   {
     "url": "theme/default-theme-config.html",
-    "revision": "d586f2c99b1d99ee4ea42c025040a7ae"
+    "revision": "e1e3a77460a5021bdc083f0351b02ba7"
   },
   {
     "url": "theme/index.html",
-    "revision": "42675a4ea421ab86f0a805ff7b5a6559"
+    "revision": "42d4bb5a6031af0a5e9d90326d46ccef"
   },
   {
     "url": "theme/inheritance.html",
-    "revision": "01f3d9e1cbce769841ddc683740f8adf"
+    "revision": "da1cadcc38f0d0360a2c6514b2a33df4"
   },
   {
     "url": "theme/option-api.html",
-    "revision": "6bc54921118d1b6dabb413ae359f90d7"
+    "revision": "4e140d0c426f56ea12024ecd935e797f"
   },
   {
     "url": "theme/using-a-theme.html",
-    "revision": "67294f4d6c12f6ebb6df04536498900d"
+    "revision": "5ddd75a9442127dfbf3ba2d3748cf5cd"
   },
   {
     "url": "theme/writing-a-theme.html",
-    "revision": "fd966808a81408f00877ccdcc1004bd3"
+    "revision": "eaf353455ab87211dc01d7fe4a827779"
   },
   {
     "url": "zh/about/assets.html",
-    "revision": "5920d200e9a4d7cf9a1e5598415ce02c"
+    "revision": "bbc90e3b239ee0ee64edcb0c90b2a50a"
   },
   {
     "url": "zh/about/basic-config.html",
-    "revision": "66c219a50b039da4121f1d99fd1bd33a"
+    "revision": "fdd0da5f83e160c9385f85ba221b68a1"
   },
   {
     "url": "zh/about/build-basics.html",
-    "revision": "c35acbf716856ec9a31641f758f7f4e2"
+    "revision": "447fb6600b25af3fbb360e50ea03b3fb"
   },
   {
     "url": "zh/about/build-demo.html",
-    "revision": "e8556cee789a4f40cb0b855a4bef81f6"
+    "revision": "c7d4a132a2deccb7bea6fb580489b30c"
   },
   {
     "url": "zh/about/build-tech.html",
-    "revision": "2dd6fb0740e1c11b12baa0121719d415"
+    "revision": "e631a5e381d4046db77a9159fa494073"
   },
   {
     "url": "zh/about/compute-introduce.html",
-    "revision": "1a60f42356efb4a18485a1895d44c680"
+    "revision": "01ed26f5b0100458121eddfac0ef231d"
   },
   {
     "url": "zh/about/computer-http.html",
-    "revision": "6ac230f21fc7093a20c3f174c1031d38"
+    "revision": "9c4fc7dc415f511e1ad5aa3dc4f5fa35"
   },
   {
     "url": "zh/about/computer-linux.html",
-    "revision": "bc6c6f711131aa9db7b2f437a2b7b0b9"
+    "revision": "b66eb4a90bc62797e6d6861d5b982180"
   },
   {
     "url": "zh/about/computer-network.html",
-    "revision": "9fb3ce3d0600cf68b83e6f32638d87de"
+    "revision": "66a86ee0a0fc763cb6071ea404746c90"
   },
   {
     "url": "zh/about/computer-socket.html",
-    "revision": "a9e650472ea73acda494e55bb62d19a2"
+    "revision": "6b755c231162b28668392c03296707b8"
   },
   {
     "url": "zh/about/computer-system.html",
-    "revision": "342ef3c42787353a4e93b3d24a209111"
+    "revision": "d15f556550c05e0d9ecdd7c93855bf9d"
   },
   {
     "url": "zh/about/data-struct.html",
-    "revision": "d06671fc4a79a564d78eee0c9cba4787"
+    "revision": "814fc0a23440238e356ba07fd4623d04"
   },
   {
     "url": "zh/about/database-basics.html",
-    "revision": "ed0c7815a4a73ee842d3ecf1a98a3b74"
+    "revision": "f55c2ab0f945749d55ef183ab04ca53a"
   },
   {
     "url": "zh/about/database-es.html",
-    "revision": "99e5b342204d56c05e3fa00d47fb520b"
+    "revision": "22858a957027eec175adad3655a47ce8"
   },
   {
     "url": "zh/about/database-mysql.html",
-    "revision": "07da7fd3957b72e7c07e6146d70efa1f"
+    "revision": "60b152458fdbd6b55315d58c9fc33e5b"
   },
   {
     "url": "zh/about/database-redis.html",
-    "revision": "5746ac67a49b595e74e6bdb199b74e41"
+    "revision": "49f1272cac61f41bf638c229f5f51918"
   },
   {
     "url": "zh/about/database-sql.html",
-    "revision": "5c3a73ac814825b2ca9f5683abd9470f"
+    "revision": "fed84831b3aa3a608ec15fa679eb7a29"
   },
   {
     "url": "zh/about/deploy.html",
-    "revision": "e4ea1fc7f6f6acd4c18bb9eae752e582"
+    "revision": "4652b3cf96ecce3d288a21b2774c0138"
   },
   {
     "url": "zh/about/directory-structure.html",
-    "revision": "a9766ff236dd2a0913aaa320b86404a5"
+    "revision": "7db47fa6f926081c4a7bc6ecd6bd36b7"
   },
   {
     "url": "zh/about/docker.html",
-    "revision": "23e0e94874fe767a1aeb83db3956732b"
+    "revision": "74d82845d2bd571c1f51b32c93831d14"
   },
   {
     "url": "zh/about/frontmatter.html",
-    "revision": "ba09c5107f65ff75e2a9e2933b5b08ad"
+    "revision": "1684736480c7286839f0f9bde3577331"
   },
   {
     "url": "zh/about/getting-started.html",
-    "revision": "39d9e61c57a40d108582c2a4619ca700"
+    "revision": "818ba69d7bb993896a0bab08e90273a4"
   },
   {
     "url": "zh/about/global-computed.html",
-    "revision": "5eae69889e98520da87023a3bfca5fef"
+    "revision": "606848ce621ac96ffa1ba667de3e1518"
   },
   {
     "url": "zh/about/i18n.html",
-    "revision": "a0ee111e73efe48b050a5f8490ef36fa"
+    "revision": "baeb854d41023e8226ca5d8f28e04d27"
   },
   {
     "url": "zh/about/index.html",
-    "revision": "b9d2f25ab02a77e992216ac814d36d75"
+    "revision": "dbe9924af9cefd013d3a178fa4dba6ff"
   },
   {
     "url": "zh/about/internal-sort.html",
-    "revision": "8f60005a49cddd910f904e3cdf5ef52d"
+    "revision": "220aa0027ebb5715ee6833636f1ea92f"
   },
   {
     "url": "zh/about/java-8.html",
-    "revision": "ea0c50212bd50ee88cc655068790eddd"
+    "revision": "00155e87cb306188681bb00e79811db3"
   },
   {
     "url": "zh/about/java-basics.html",
-    "revision": "250d1161c3cf56941712ff8267564d01"
+    "revision": "b7673e1d90a490417eda435663c518f3"
   },
   {
     "url": "zh/about/java-collection.html",
-    "revision": "5ec847af6ac3cf0a6ba755f362b61e58"
+    "revision": "2ee6c830f950ee30255c559908c27b3a"
   },
   {
     "url": "zh/about/java-current.html",
-    "revision": "0f0ad6030d05308f32fabb3c980cd844"
+    "revision": "24c7f60a5bd45bda1e77d06140febc6c"
   },
   {
     "url": "zh/about/java-io.html",
-    "revision": "845d795b25bec4da4f2b8f1124ca5eee"
+    "revision": "9949cc7a60a4d823bba102a03c51b2d4"
   },
   {
     "url": "zh/about/java-jvm.html",
-    "revision": "f6cffc5df5eea29b94b9f1498594bad1"
+    "revision": "a1b3a80e70eeeae659f83d69d983fe0a"
   },
   {
     "url": "zh/about/markdown-slot.html",
-    "revision": "0c3d40fdb36364afa5b6816b81df020c"
+    "revision": "f84f24a270fa50c8ca7b2e3e9b25c559"
   },
   {
     "url": "zh/about/markdown.html",
-    "revision": "5ac7d7219095c14aa6de5b5b802dc4a7"
+    "revision": "51b9224e49628c661906dfce8c614f2b"
   },
   {
     "url": "zh/about/mq-kafka.html",
-    "revision": "7a6afa93a99fa22392f891d82da7d394"
+    "revision": "a2193e5d172485caccc5272da6e80f05"
   },
   {
     "url": "zh/about/mq-rabbit.html",
-    "revision": "74265114c80900690f8a40111c9fa11e"
+    "revision": "09a383404f16b31da1ad4935d609f94d"
   },
   {
     "url": "zh/about/mybatis-basics.html",
-    "revision": "d16f3b347108099645cafb798f024c93"
+    "revision": "87ac98e87188dfc4535a03c73b424309"
   },
   {
     "url": "zh/about/permalinks.html",
-    "revision": "be4a045770ee236efd966d71bff4a732"
+    "revision": "494c48f39ee6ff0f5e9d010b4215e6ca"
   },
   {
     "url": "zh/about/spring-basics.html",
-    "revision": "46e3d160c4aeac69b323408c76d7b47e"
+    "revision": "30ca75ea73c168197ebf2741b2e5ae56"
   },
   {
     "url": "zh/about/spring-boot.html",
-    "revision": "42997a8a0f1fe63fb89fa754e8f0071d"
+    "revision": "508af9f755227ef12232c4ce08992b0f"
   },
   {
     "url": "zh/about/spring-cloud.html",
-    "revision": "184ff32e3e8786e43a312df8016951ca"
+    "revision": "2faaa0c0852cbdffa39e658626515987"
   },
   {
     "url": "zh/about/using-vue.html",
-    "revision": "8d99ef594b902d0fe23dfe62120ede76"
+    "revision": "7c157c284bdf44819134645f378e6de2"
   },
   {
     "url": "zh/api/cli.html",
-    "revision": "d569b5d5520943d02bb41db0c9976aaa"
+    "revision": "b6cc627cc60222c44aa83ffe36dfb61a"
   },
   {
     "url": "zh/api/node.html",
-    "revision": "a5a5ce545134c440a489e403187ea217"
+    "revision": "1ea7a13118f64f9df6932f10991e03a8"
   },
   {
     "url": "zh/computer/assets.html",
-    "revision": "7ab027bdc2ccd205f30694df4f977440"
+    "revision": "7ca59968287a2f779d4ac6f96e241bcf"
   },
   {
     "url": "zh/computer/basic-config.html",
-    "revision": "4e0d24c6738fb03f0527e57b7709b20d"
+    "revision": "b3119294e870fa8bc88b0ed563aea324"
   },
   {
     "url": "zh/computer/build-basics.html",
-    "revision": "88222ad4514163854e7bbff23658405f"
+    "revision": "a35c9922315432fca2721a26a6ee6b1f"
   },
   {
     "url": "zh/computer/build-demo.html",
-    "revision": "bb20a6fbdba42991d9f537ad554d21b6"
+    "revision": "3192bac96d4c6a10ab6e1927108af286"
   },
   {
     "url": "zh/computer/build-tech.html",
-    "revision": "125bb678e17d2f60b2daf6bbde743d2b"
+    "revision": "2bb9f584c0a5639645889d29ff60fd80"
   },
   {
     "url": "zh/computer/compute-introduce.html",
-    "revision": "c4bdb3f64a2df805e567854c6bbde92a"
+    "revision": "d96a1c29799715c39adc5c74670fb734"
   },
   {
     "url": "zh/computer/data-struct.html",
-    "revision": "b49eace801ec5e9c4084bde233dec72f"
+    "revision": "cacab90f26ee513a36e7906d2fbfe016"
   },
   {
     "url": "zh/computer/database-basics.html",
-    "revision": "0edddd8dee6ea1a6dbb94f1daba7db64"
+    "revision": "67e8c896d3a8319de52f6a82f44b8ba1"
   },
   {
     "url": "zh/computer/database-es.html",
-    "revision": "f34d67004dc506427818c2169ce12fe7"
+    "revision": "de73a75068903ae5994e24d6df8dda3b"
   },
   {
     "url": "zh/computer/database-mysql.html",
-    "revision": "e040c81c90ea02b3fd05428688aa1ecd"
+    "revision": "4678a4fa5a695d7d875e7bffaa33a001"
   },
   {
     "url": "zh/computer/database-redis.html",
-    "revision": "94b9065d88e11b4b791416dfe30e095b"
+    "revision": "cebfb15c1532b4b57d2dc42ee5ae6cad"
   },
   {
     "url": "zh/computer/database-sql.html",
-    "revision": "12c195bad189a6f03b80968e1c0598e5"
+    "revision": "22d99a56146a8cff25ac0777415a0866"
   },
   {
     "url": "zh/computer/deploy.html",
-    "revision": "6842b0e68ede6de67c0fea5e405fc403"
+    "revision": "74b0c829ad1141e6cd63396f3670e93f"
   },
   {
     "url": "zh/computer/directory-structure.html",
-    "revision": "44afae521ac36254a988cb7e321cf662"
+    "revision": "53ae2be566ef74a9d38a2a7dca62d63d"
   },
   {
     "url": "zh/computer/docker.html",
-    "revision": "63998cd68f2a03a5c499ab9aaaf4996d"
+    "revision": "4a504ad7460744d6d1fa7be9a1fec644"
   },
   {
     "url": "zh/computer/frontmatter.html",
-    "revision": "691bfe77b7c879c0d9f13060333e6f8d"
+    "revision": "66be3ea6af1f02949b2e30b9f28a6b94"
   },
   {
     "url": "zh/computer/getting-started.html",
-    "revision": "dd2e278e5e96620b5f579af414098354"
+    "revision": "42045a143d72dcfae39aee7b3991a3f4"
   },
   {
     "url": "zh/computer/global-computed.html",
-    "revision": "a4daf7221ac24ef31ed12db5aac30962"
+    "revision": "99d94769fbf5947241a676ee89ad518a"
   },
   {
     "url": "zh/computer/i18n.html",
-    "revision": "f80a9dc694f028fff070b26ac80d932a"
+    "revision": "f8eb896ec7d13cbfefe224f69b7f9edb"
   },
   {
     "url": "zh/computer/index.html",
-    "revision": "3eafaefeff751d8b13feb95e7aade177"
+    "revision": "36db157c6a3daa277e94b72c7775c059"
   },
   {
     "url": "zh/computer/internal-sort.html",
-    "revision": "b1b395d8575c76db07790840bca1aae8"
+    "revision": "c5888b7862fcc07bd3563b2aea01bb64"
   },
   {
     "url": "zh/computer/java-8.html",
-    "revision": "2b28bfc6566924016a441e19f0c0f3c6"
+    "revision": "1d8ca94e8a2a820b4d4db33f5da4a13a"
   },
   {
     "url": "zh/computer/java-basics.html",
-    "revision": "8ba245ec07a4350590447f97e59190f4"
+    "revision": "b14ca9fc9a07ad4a858eca198acdd5ff"
   },
   {
     "url": "zh/computer/java-collection.html",
-    "revision": "8744dfc5af5f667a531ff70d00fbf066"
+    "revision": "17903b6a4d7278d44618350a4cc6de9b"
   },
   {
     "url": "zh/computer/java-current.html",
-    "revision": "a32124f07bf9fb57f8716827f3b07931"
+    "revision": "3093bef1764853bfd0668e0cddef8a13"
   },
   {
     "url": "zh/computer/java-io.html",
-    "revision": "aa0175a2aa9dbcb72d0006cba173a319"
+    "revision": "ddeba985124ee37c7e4fd3eb46642049"
   },
   {
     "url": "zh/computer/java-jvm.html",
-    "revision": "e48cc5ace3b8230d89ff63873349337c"
+    "revision": "194da1efc6b6cbacdb05f056929d2e2e"
   },
   {
     "url": "zh/computer/markdown-slot.html",
-    "revision": "59e0a4f15dc8a6b5a1f3b1768c39e15a"
+    "revision": "1bf6a59888b24cd8f1d9c5bd91e532fb"
   },
   {
     "url": "zh/computer/markdown.html",
-    "revision": "4814d40e911c1f96edad7d84e55560a2"
+    "revision": "89f2f09e9b0699a0fa1e4127c6f3aa93"
   },
   {
     "url": "zh/computer/mq-kafka.html",
-    "revision": "20939ccea50cd28a9ea359e5beb7af8e"
+    "revision": "71d7cf38b446f49800c1f8c6f46a71fd"
   },
   {
     "url": "zh/computer/mq-rabbit.html",
-    "revision": "386e2e7026f8cc33f30a1dece6358aaf"
+    "revision": "b5f3ee59948f6e4ebf90085e4409d34d"
   },
   {
     "url": "zh/computer/mybatis-basics.html",
-    "revision": "0e7603fda64f9f6d81260eeebef80cb3"
+    "revision": "f7bf6e0a906b394fe58ed0387b948928"
   },
   {
     "url": "zh/computer/permalinks.html",
-    "revision": "538314e4bb22c00523495c5c74855098"
+    "revision": "46ee4f903cf6b8d1a8166e83f13a42fa"
   },
   {
     "url": "zh/computer/spring-basics.html",
-    "revision": "c4a17262f8618f55aa59f6a306001f54"
+    "revision": "ecc39046c3f355ab060c879282def319"
   },
   {
     "url": "zh/computer/spring-boot.html",
-    "revision": "7799b98f71499fbc547cd01905a0296e"
+    "revision": "9aac222e99ae8f3b24411b2d576f2bca"
   },
   {
     "url": "zh/computer/spring-cloud.html",
-    "revision": "b2c15edb5ff825f808dc1d846bcf84a2"
+    "revision": "bbfeb8948adafc60fd9b6838221e53c9"
   },
   {
     "url": "zh/computer/using-vue.html",
-    "revision": "3edfa3a58d23e35fc4d9458dde837281"
+    "revision": "64ccd6b532e2638142221286f97d47f0"
   },
   {
     "url": "zh/config/build-basics.html",
-    "revision": "8a9ffbb2686494471e547f74461b4511"
+    "revision": "4b83bdcd6c51eab865b0ef7809cef3c0"
   },
   {
     "url": "zh/config/build-demo.html",
-    "revision": "ade4bf2fb6e349727a6a418ac28087e0"
+    "revision": "4ca9d8def28686bf628d23475caa7c8d"
   },
   {
     "url": "zh/config/build-tech.html",
-    "revision": "527d7f478e0c7e87a5b687b17ef198f7"
+    "revision": "506ede08acc0229e68b021e839bd9e24"
   },
   {
     "url": "zh/config/compute-introduce.html",
-    "revision": "a08eab7fe32b6b184f07908a67a57742"
+    "revision": "f1f33435f7eb85a64227316eee614ec1"
   },
   {
     "url": "zh/config/data-struct.html",
-    "revision": "8ca7770bdf1c705321932e5164649b9f"
+    "revision": "7bae8f74344221f21cac1eb32d73c557"
   },
   {
     "url": "zh/config/database-basics.html",
-    "revision": "006f02473626670530bca84ebd0b5370"
+    "revision": "61e49f9e45edf58b83c7f09ccba03b89"
   },
   {
     "url": "zh/config/database-es.html",
-    "revision": "1a448c75f8c203f359a6a00566b6d7b2"
+    "revision": "a8ec252dde2cbe8cb8c91de72c753662"
   },
   {
     "url": "zh/config/database-mysql.html",
-    "revision": "f1e3425b088f883e5cf8a7b2586d0977"
+    "revision": "c15bdd64372afff7cf4d3d79b7926aa0"
   },
   {
     "url": "zh/config/database-redis.html",
-    "revision": "775db5e11eb91e66ba8d101692c75da5"
+    "revision": "d35da92d67987c1c7a254c9d6c58601b"
   },
   {
     "url": "zh/config/database-sql.html",
-    "revision": "fe3fb359cf3d92348445f55060d59193"
+    "revision": "71971100e33c049fb3a53c42a9fb9831"
   },
   {
     "url": "zh/config/docker.html",
-    "revision": "9747d263e16cb1a5e44c4397e7debea1"
+    "revision": "b3c0a41ace52e98aca5e524d7e53f51c"
   },
   {
     "url": "zh/config/index.html",
-    "revision": "f87c005a88146c9b86ee8a4dddb8c49c"
+    "revision": "7b2faea0bf0ff0a3b00111b744ab2875"
   },
   {
     "url": "zh/config/internal-sort.html",
-    "revision": "1955969305035488f0302384dc92bf8f"
+    "revision": "67703340e5ed30761bb9f42690fbbf08"
   },
   {
     "url": "zh/config/java-8.html",
-    "revision": "c16143e7de8a0de8a76b4f0ff74f82ae"
+    "revision": "83c093d46ce3f51c1a80791992583dec"
   },
   {
     "url": "zh/config/java-basics.html",
-    "revision": "8c77a708f48fd81d626660741203b502"
+    "revision": "8d6a2136957ed33d8f033f5889ab17e0"
   },
   {
     "url": "zh/config/java-collection.html",
-    "revision": "a97a890609aefc6828cad68db9f531e6"
+    "revision": "5ac6aaff4b23aff6576a0988afafd9c9"
   },
   {
     "url": "zh/config/java-current.html",
-    "revision": "17453efd64a99672c7d5613724c1993d"
+    "revision": "315bd8e3b80e2bf4878610a3dd6a4864"
   },
   {
     "url": "zh/config/java-io.html",
-    "revision": "309645d2702d9ed1ef72f22a91f21a4a"
+    "revision": "9b777f3a409dd14c7baf688ba7f1d689"
   },
   {
     "url": "zh/config/java-jvm.html",
-    "revision": "6035e43738c2b7f5726de9b7129365c8"
+    "revision": "9d39a1531160ac2207e69af375e8d9a8"
   },
   {
     "url": "zh/config/mq-kafka.html",
-    "revision": "973656eccc2d672a519fd9b1a8d1effa"
+    "revision": "857fa0f22ef9d2ae2caa01f774c7c38f"
   },
   {
     "url": "zh/config/mq-rabbit.html",
-    "revision": "fc0504d4ce4e3feac5631b4ecb8c187d"
+    "revision": "597e58211bcd23236597480f12ca32d8"
   },
   {
     "url": "zh/config/mybatis-basics.html",
-    "revision": "925a0afa9e5aeb351939056da0740f0e"
+    "revision": "21cf8e84e8ae452d2e84e0ef6e3b40f8"
   },
   {
     "url": "zh/config/spring-basics.html",
-    "revision": "42ac72ae8fb1d631023357a8ea64581c"
+    "revision": "ded6b704089bf6737449f9da329f8a8b"
   },
   {
     "url": "zh/config/spring-boot.html",
-    "revision": "09ec29640692df1ae8e2bd69b9498584"
+    "revision": "740e2e32ce714d7c3287f2df26b8b85c"
   },
   {
     "url": "zh/config/spring-cloud.html",
-    "revision": "653fbfe8d4c0543b59961e286f6f646a"
+    "revision": "a972a1e7e7b495f57032e18dc115590e"
   },
   {
     "url": "zh/database/assets.html",
-    "revision": "042aeda9d209cffa3a00b1a4eacdc718"
+    "revision": "eb32479d8cec4e6ed0b6e3f2bd00e306"
   },
   {
     "url": "zh/database/basic-config.html",
-    "revision": "174f0faa7840b8064df36f4c59fcd1f0"
+    "revision": "caa07396223b5860daae14bc97317ff5"
   },
   {
     "url": "zh/database/build-basics.html",
-    "revision": "5cb9d6347543be2f21fbdfdf5b2dad55"
+    "revision": "b208557af3c138c1c9df08c7e3da262b"
   },
   {
     "url": "zh/database/build-demo.html",
-    "revision": "f8ce43f2bdab011553bf97776302b6d6"
+    "revision": "8be7ac965e5f2ceea701d818aa110dd2"
   },
   {
     "url": "zh/database/build-tech.html",
-    "revision": "ed9df4135c2f2396d7c1a3a6ea4ab552"
+    "revision": "67d27d1609ef7ffa9b419a0c02955b7a"
   },
   {
     "url": "zh/database/compute-introduce.html",
-    "revision": "27551cf2a2ec47ce66e05234da1a4501"
+    "revision": "442c5357793570e7d6eba1015d9d18f9"
   },
   {
     "url": "zh/database/computer-http.html",
-    "revision": "6bdaa9bc88e62b35b3310090bf6eae5b"
+    "revision": "7a4d71fd3ee339e45b8e51312027317a"
   },
   {
     "url": "zh/database/computer-linux.html",
-    "revision": "b56e86c231c10d03b17eb7fca274d749"
+    "revision": "10597b9aabe12e805fd95216c92aa2ef"
   },
   {
     "url": "zh/database/computer-network.html",
-    "revision": "613f097a5c8ffa25e2ea1fd7a948da2f"
+    "revision": "344dd5fe4d3a7ff241983b924fb53804"
   },
   {
     "url": "zh/database/computer-socket.html",
-    "revision": "7bfaba3c2da7edc4ff7e814e1154b105"
+    "revision": "f300d09ad0e14f079f14cc9759c8498f"
   },
   {
     "url": "zh/database/computer-system.html",
-    "revision": "6ed972e0a75238134b98ab73608c0e58"
+    "revision": "7a85287229bec6e687d52f4b2df87651"
   },
   {
     "url": "zh/database/data-struct.html",
-    "revision": "cc8af1b8d38a0664cf9cd23596071286"
+    "revision": "4e6b33678cbb5b12dd74ee53bfc2950f"
   },
   {
     "url": "zh/database/database-basics.html",
-    "revision": "2f88e67dc501703c2664a57e5f299223"
+    "revision": "b902a46f4840595e1a637dbf1ff430a1"
   },
   {
     "url": "zh/database/database-es.html",
-    "revision": "3703c873fb88c626b5e6f17672817a3e"
+    "revision": "7889b70a09bfa7803d3c50c07b6b4e23"
   },
   {
     "url": "zh/database/database-mysql.html",
-    "revision": "2d15c843cec384ac2b5a735eb6847d2b"
+    "revision": "19db0370b5bb4bb551253c7a1b45f5e2"
   },
   {
     "url": "zh/database/database-redis.html",
-    "revision": "41b876f4674c4daf67876e5f9ec0ae97"
+    "revision": "2143058f8ee2a1e9ac5e8400594db84c"
   },
   {
     "url": "zh/database/database-sql.html",
-    "revision": "e7de7c57ea2ad038ebc5e3a49f0a9236"
+    "revision": "80bc8bfc17d4668834bbc915345b7e47"
   },
   {
     "url": "zh/database/deploy.html",
-    "revision": "173cf58e76faa45afd8c4c352cc2da28"
+    "revision": "1d63331ffccd8a3254c287698de6ec4e"
   },
   {
     "url": "zh/database/directory-structure.html",
-    "revision": "77bc167ce4e1ac723e56be88377db616"
+    "revision": "49c014c669b55903fc36208b839ab8f2"
   },
   {
     "url": "zh/database/docker.html",
-    "revision": "3639a44d52757bba266ed5f4e215ffce"
+    "revision": "e9b7d83d30b7c7ad74adf5fbc71dd3e5"
   },
   {
     "url": "zh/database/frontmatter.html",
-    "revision": "c5a713107e1542570664545a3af8473e"
+    "revision": "d3fa74b24d86d305d02b59dfb03a21cb"
   },
   {
     "url": "zh/database/getting-started.html",
-    "revision": "31fcecb8ea3e72980e5df3b99e2ded3b"
+    "revision": "e1fb7719bfe147e572a6c620d3c02e0e"
   },
   {
     "url": "zh/database/global-computed.html",
-    "revision": "bc022d78e7e4af826bc250b9cc40802f"
+    "revision": "22dca88915a59acaffdd8e590235b533"
   },
   {
     "url": "zh/database/i18n.html",
-    "revision": "12db1535e3c1cf44f5f0afe93e3fc26e"
+    "revision": "8ad14d25a4b0e2febcb891abd15df872"
   },
   {
     "url": "zh/database/index.html",
-    "revision": "c295032e124a609dd39a69a2446a7e2f"
+    "revision": "ac4f119bdb1396b30f37e9e73ec31bb4"
   },
   {
     "url": "zh/database/internal-sort.html",
-    "revision": "e83ffe6c977991ffd6d411596179e590"
+    "revision": "aab57823813bfe127cfd9599eb6c81fe"
   },
   {
     "url": "zh/database/java-8.html",
-    "revision": "d239c351c30a763a76b1eb1ba6f11845"
+    "revision": "d2eee59a046aeca80146204914f2a4d0"
   },
   {
     "url": "zh/database/java-basics.html",
-    "revision": "26555a26b1a42a39eedc42bdd1d9e5c4"
+    "revision": "236df9037ee24a44e78800e68758c0f5"
   },
   {
     "url": "zh/database/java-collection.html",
-    "revision": "dc64ad9ff831f446a1fcfe2958390cb7"
+    "revision": "793b14d9772469318d49bc5e83fe3c54"
   },
   {
     "url": "zh/database/java-current.html",
-    "revision": "839f11f61b67ebaabfcd4cbe8fa50604"
+    "revision": "39f312e942f3ed0e7ccf11cdb48901e3"
   },
   {
     "url": "zh/database/java-io.html",
-    "revision": "c014933cf062e1a4921abb79b90f1419"
+    "revision": "df40e6e3e13cd3ddb95124e0fa4965f0"
   },
   {
     "url": "zh/database/java-jvm.html",
-    "revision": "a1e208a996354342ad4b3b1325eae7f8"
+    "revision": "a10468b3e7d5bef4ec761bade0030b23"
   },
   {
     "url": "zh/database/markdown-slot.html",
-    "revision": "8b1ed2ab053b763d4a2fd4535666b4dc"
+    "revision": "4155b423ed6f8ba6a7b4dd7df2f8e517"
   },
   {
     "url": "zh/database/markdown.html",
-    "revision": "54aecf5eaddaa7afa9d8ff76eb6bc124"
+    "revision": "a5f8d09f5e6b64027ac3bab93057d5b0"
   },
   {
     "url": "zh/database/mq-kafka.html",
-    "revision": "39d2ebc36797dd84dd2593ad1c01a669"
+    "revision": "12767f51e6dd134d5b292b04e231544f"
   },
   {
     "url": "zh/database/mq-rabbit.html",
-    "revision": "a5653eba6613b4b7fa2a53bd31ada750"
+    "revision": "5ce5b58b660899a5d17a9422b6d03004"
   },
   {
     "url": "zh/database/mybatis-basics.html",
-    "revision": "98e86d699abeea57bdddf777d16f1635"
+    "revision": "233ed80ec70f58037765c00780d4e4be"
   },
   {
     "url": "zh/database/permalinks.html",
-    "revision": "27c52f57af3e8b07429a3fb52625149f"
+    "revision": "98b1785f46dce9f6b9b7f449398d2253"
   },
   {
     "url": "zh/database/spring-basics.html",
-    "revision": "c73b5f87f9ff84b4faeef2455d863630"
+    "revision": "df505d57b6cd13351a916ca159a81494"
   },
   {
     "url": "zh/database/spring-boot.html",
-    "revision": "707d4ad42ce545d725d0db7650a706c6"
+    "revision": "c17b8deb43c056800be646be0e10e9bc"
   },
   {
     "url": "zh/database/spring-cloud.html",
-    "revision": "faaa19ffffbbb7fe73eac8d41484eb7e"
+    "revision": "f1609d6a6f379a3b2b7df5ec40d866be"
   },
   {
     "url": "zh/database/using-vue.html",
-    "revision": "9b76acedc7e88443a20a0dca72a80994"
+    "revision": "0c98b74f66c3302f2b2ce077d4805c14"
   },
   {
     "url": "zh/design/assets.html",
-    "revision": "6335e8051b81e8d71e694394feb41c96"
+    "revision": "1496b8d5c0929f73711b98dc8186877c"
   },
   {
     "url": "zh/design/basic-config.html",
-    "revision": "485f57775ff4629e5b9cf67a8eeb4529"
+    "revision": "3e8bc55a42135aec0ab29c042ddc583b"
   },
   {
     "url": "zh/design/build-basics.html",
-    "revision": "bf9539b7fc84d8ecc6a22ba6ffaf295b"
+    "revision": "e064364b64eba20ae881dddfdd147dbc"
   },
   {
     "url": "zh/design/build-demo.html",
-    "revision": "9fb859d74def019ad1a49764683ff1ed"
+    "revision": "5913856d3716c5d9301cd51d9f096932"
   },
   {
     "url": "zh/design/build-tech.html",
-    "revision": "c2743ba21e8f45da9f78bb151644e48b"
+    "revision": "51929aec51dbdb55df27a1c1376a64f6"
   },
   {
     "url": "zh/design/compute-introduce.html",
-    "revision": "22b3b9bc3341c9741839762ab5cfdba0"
+    "revision": "028da9e87c16f00230c8f9a260e74e9b"
   },
   {
     "url": "zh/design/computer-http.html",
-    "revision": "fa0550b9946de675b5b04eeee7acf560"
+    "revision": "25df8a6f32ccae3597eab29346e79d64"
   },
   {
     "url": "zh/design/computer-linux.html",
-    "revision": "7b8159430de06b48c5b3717a8a0c9ad4"
+    "revision": "2e84c13fcb05c6bffe6efa51dbf222f2"
   },
   {
     "url": "zh/design/computer-network.html",
-    "revision": "c4b60e355bbce915a28a437ed67e615d"
+    "revision": "ed700340d1be1ff47aa6b5201b7dfd37"
   },
   {
     "url": "zh/design/computer-socket.html",
-    "revision": "925f6515acab677a2c9f07ed9e7eb613"
+    "revision": "085a4670bfe7ad6cb7b38c002c650103"
   },
   {
     "url": "zh/design/computer-system.html",
-    "revision": "772f122fabadf7960daaed7cb87641f6"
+    "revision": "3a41257bc7a8d0a49f55ccfacadea3bf"
   },
   {
     "url": "zh/design/data-struct.html",
-    "revision": "83b731a344a873c2c4f95cc131dedc65"
+    "revision": "e19d999c8b26b7ae49f526521f989a6e"
   },
   {
     "url": "zh/design/database-basics.html",
-    "revision": "200099c2d7f02e80825cf535cb6bd89d"
+    "revision": "b0b2b5c6f2517ef73db7ce000db9cff0"
   },
   {
     "url": "zh/design/database-es.html",
-    "revision": "da1f778e284a96cd5da6e92756509e02"
+    "revision": "23255d259843d90b7c735f60a6df3425"
   },
   {
     "url": "zh/design/database-mysql.html",
-    "revision": "1979a6d5e70e315b7397c6787d06c436"
+    "revision": "f070269dbe92b8fd75cf2c9b7fe66a42"
   },
   {
     "url": "zh/design/database-redis.html",
-    "revision": "d7760369c972063370cf75d6be2606b7"
+    "revision": "4cc31b6d540759ae343a4a952b03c782"
   },
   {
     "url": "zh/design/database-sql.html",
-    "revision": "b603f028f33abe92c89d15131d439647"
+    "revision": "af68ce718dda5e06f7db04c4a96ead1f"
   },
   {
     "url": "zh/design/deploy.html",
-    "revision": "46eeb73dee7661eaf109fc606bc79885"
+    "revision": "93f3915117fdfd1e7015050308f11f82"
   },
   {
     "url": "zh/design/directory-structure.html",
-    "revision": "3fe015372306b0794e07272d35d94e22"
+    "revision": "755a9626dc997764a221c13582d02a42"
   },
   {
     "url": "zh/design/docker.html",
-    "revision": "ee408043828bf88d2b100e0cada9b2c2"
+    "revision": "5bc6f79436318446fc333dd1e6725182"
   },
   {
     "url": "zh/design/frontmatter.html",
-    "revision": "ee89ac73ba741edba36c20c494be9d3b"
+    "revision": "5b97e2aff134bd2d42366bd7e75af452"
   },
   {
     "url": "zh/design/getting-started.html",
-    "revision": "53691c0861bc6cb336ebe8d081277a70"
+    "revision": "f1efe93bb224e404b79a364ae6ed43fd"
   },
   {
     "url": "zh/design/global-computed.html",
-    "revision": "96f0ad72ee8919d3e09137cc0497157a"
+    "revision": "57a9ee5e93e4972aac3a024e0e5c01bc"
   },
   {
     "url": "zh/design/i18n.html",
-    "revision": "ae9d43f9e17a4d2acdb4f13a46bbcb43"
+    "revision": "ba038883808a3666b8b7b1c38613ab4c"
   },
   {
     "url": "zh/design/index.html",
-    "revision": "5565df55e19d106e407c692867a3862a"
+    "revision": "be899408d4143fe3d187cd8a28a23740"
   },
   {
     "url": "zh/design/internal-sort.html",
-    "revision": "c63f7538de46d04016834682895b948b"
+    "revision": "d936966ab3f5496972b449da71ae325f"
   },
   {
     "url": "zh/design/java-8.html",
-    "revision": "832be36e2e8313165aaeaebfafdf280a"
+    "revision": "fa91df6b9bbb783a9d667c5510d901fd"
   },
   {
     "url": "zh/design/java-basics.html",
-    "revision": "a907647ae02d3b539ff43dff3fa59790"
+    "revision": "1ebdbd4c6c658a77ee747df2dd0e1b86"
   },
   {
     "url": "zh/design/java-collection.html",
-    "revision": "25d21603393f3e266a5ebcd9334a6484"
+    "revision": "200d927cdcfe12a672396784715c988e"
   },
   {
     "url": "zh/design/java-current.html",
-    "revision": "fe81e8efda880428ac9142c87f2fbb3f"
+    "revision": "849625bec12ac472399e3c75bde0743c"
   },
   {
     "url": "zh/design/java-io.html",
-    "revision": "955eb982f4380ea5db1e809df41ee731"
+    "revision": "212f0a7172c3fd58b24677f0798494b8"
   },
   {
     "url": "zh/design/java-jvm.html",
-    "revision": "bb84c03536f17697559b97b05b6e7f69"
+    "revision": "359837c8110565984fcd9209fd97b1b6"
   },
   {
     "url": "zh/design/markdown-slot.html",
-    "revision": "3dab72f43ce7c016b5178740639b0e54"
+    "revision": "4a564c450bf7a969f1bdf33a3a71aac7"
   },
   {
     "url": "zh/design/markdown.html",
-    "revision": "6bda205914425202a860a2f081126826"
+    "revision": "d583151866bf3f8998bbd2bdb213f5a9"
   },
   {
     "url": "zh/design/mq-kafka.html",
-    "revision": "3ae6bb5abcb87f1e2cbe08342baf7004"
+    "revision": "ea1e2152f97eaac1d70a78289bf3eafd"
   },
   {
     "url": "zh/design/mq-rabbit.html",
-    "revision": "9dae56b3c4b5f44c1b970d6e8d56fff6"
+    "revision": "e61b7c4b915321a8ce6f9e86455ea456"
   },
   {
     "url": "zh/design/mybatis-basics.html",
-    "revision": "f0d00b7233a8061017d023bff988deb6"
+    "revision": "d53699f7ca037218ee401361ecd86881"
   },
   {
     "url": "zh/design/permalinks.html",
-    "revision": "99021537a11e13205ca5b402984b6b90"
+    "revision": "5f4fb261c7b0840bb5794bb238a6d5f9"
   },
   {
     "url": "zh/design/spring-basics.html",
-    "revision": "7802a1c205634d2dcde9d199163b9c1f"
+    "revision": "861ae3c5134d038ce8f92c181e8f39a0"
   },
   {
     "url": "zh/design/spring-boot.html",
-    "revision": "0f88fcf70ecad57ffef517422cc3af5c"
+    "revision": "3e60baf4e5b344035642b93f3bd0cbc5"
   },
   {
     "url": "zh/design/spring-cloud.html",
-    "revision": "fddb9485af78e9461531751336959f41"
+    "revision": "c2ecd439f0be67c3e0273cf1cc6d42a7"
   },
   {
     "url": "zh/design/using-vue.html",
-    "revision": "b8821711ed13dd69886603c006664820"
+    "revision": "086572eeec5638f0a29ecb8d326b0e86"
   },
   {
     "url": "zh/faq/index.html",
-    "revision": "adf0e653b0ddd7eddf15a7495828107c"
+    "revision": "91ae4ce058b486d88bafb99e9c00079e"
   },
   {
     "url": "zh/frame/assets.html",
-    "revision": "b3ef1f61bf6f349b4769cfbfebf536b8"
+    "revision": "23bca30b65dc4a384c02d70c8456ddbd"
   },
   {
     "url": "zh/frame/basic-config.html",
-    "revision": "54e3e8a4821683efd01b0dd2a292a3bc"
+    "revision": "a887aeee134abe5877a86fc600021bae"
   },
   {
     "url": "zh/frame/build-basics.html",
-    "revision": "c5c2fa884fb8e08fb04f6e904f083acb"
+    "revision": "0740f2917b934a8fbd8c98a8c7691fe3"
   },
   {
     "url": "zh/frame/build-demo.html",
-    "revision": "2eaa4704c21c8c330ed9aa848111c1fd"
+    "revision": "a1cc60b393bff3144e2e195faac909ea"
   },
   {
     "url": "zh/frame/build-tech.html",
-    "revision": "6e1932aebf778329a5d2361487053e35"
+    "revision": "cf6de031c987811a4dac6e1658b91ddb"
   },
   {
     "url": "zh/frame/compute-introduce.html",
-    "revision": "df7a399f4b2dfdcc8ee275f8c644a753"
+    "revision": "585c694c1302febda69f9d8c088294f2"
   },
   {
     "url": "zh/frame/computer-http.html",
-    "revision": "2b17d9ded00dbce1afa7006ce70e46d3"
+    "revision": "99bc16a861accb4ef51933340c6ae023"
   },
   {
     "url": "zh/frame/computer-linux.html",
-    "revision": "ab0e08737b9b27a38ff42cb0c6260d5d"
+    "revision": "2e6bfee718ceab222fc5741a3050b1c7"
   },
   {
     "url": "zh/frame/computer-network.html",
-    "revision": "21acd5743d28fd400e73baa702ad1ce6"
+    "revision": "4157dd683d082f7434b8211559738614"
   },
   {
     "url": "zh/frame/computer-socket.html",
-    "revision": "f4f95318ff7c9298d137e41147fd75ad"
+    "revision": "7e47e23c2ada1af65dd112c0cffe017f"
   },
   {
     "url": "zh/frame/computer-system.html",
-    "revision": "e4d157afbe60231492dd88f060bf705b"
+    "revision": "2bf60b237f3369b2e8461b395f41beb7"
   },
   {
     "url": "zh/frame/data-struct.html",
-    "revision": "6da84b4af7882171cf7e71fa866fc239"
+    "revision": "cdb82c2a277be4a64f4b7710bece0501"
   },
   {
     "url": "zh/frame/database-basics.html",
-    "revision": "07b1f6b3fd39bf282f61e09e08319cfa"
+    "revision": "07128722ba6074866807b090df9b105a"
   },
   {
     "url": "zh/frame/database-es.html",
-    "revision": "454b34c45791f1f4df83d3c88028bcdb"
+    "revision": "62e28d6a9335bd9010664598619beb4e"
   },
   {
     "url": "zh/frame/database-mysql.html",
-    "revision": "229e30ac9180e1988e5c6f5602fdd38f"
+    "revision": "29098c75b3a733390a1af15e7e962215"
   },
   {
     "url": "zh/frame/database-redis.html",
-    "revision": "e27070129f01d7d974226dce32b14309"
+    "revision": "fa2d5b48f6960c6168f36d36078ff0ff"
   },
   {
     "url": "zh/frame/database-sql.html",
-    "revision": "c96e1ee888dcafd8f9880ae108513b04"
+    "revision": "3e18a1f9cb952a260e3f6908c75c84b8"
   },
   {
     "url": "zh/frame/deploy.html",
-    "revision": "c2a59891fbc7ea8635716dd22dad4030"
+    "revision": "775f7e076287b0fface06733763fc0ee"
   },
   {
     "url": "zh/frame/directory-structure.html",
-    "revision": "22bf22ba037a4b63c0686edff9aeba9f"
+    "revision": "2ed4e8a53e6f4369fa2d42515fc6abcb"
   },
   {
     "url": "zh/frame/docker.html",
-    "revision": "48b07303071a1039dba1a864c134c255"
+    "revision": "8c9ab7f9433ccc2ca75ded291c48a5ab"
   },
   {
     "url": "zh/frame/frontmatter.html",
-    "revision": "2a5226cd09908fd58727009befb8a750"
+    "revision": "cb89a57735a7b6cd9f99c64333706197"
   },
   {
     "url": "zh/frame/getting-started.html",
-    "revision": "a877f51462b1c442e53a42c3d2652006"
+    "revision": "04cddb5bd0eed72c52887449a1df58ae"
   },
   {
     "url": "zh/frame/global-computed.html",
-    "revision": "82a7471d96ae4746913abf5e42378a72"
+    "revision": "cd611f1dd28b3a58cc6cca18f4d91a2c"
   },
   {
     "url": "zh/frame/i18n.html",
-    "revision": "f6fb76d9c76fd9afa83ce705f4b5d583"
+    "revision": "70bc8ca53ce3e42e4e717c5643a7a184"
   },
   {
     "url": "zh/frame/index.html",
-    "revision": "cc80dc546ab8b7a73c7bfc6b8529dbb5"
+    "revision": "d27313b2c70e4e231199a70e84191e05"
   },
   {
     "url": "zh/frame/internal-sort.html",
-    "revision": "60615f2019a0b933c43b32e5e9af4528"
+    "revision": "790538ffab23246cf90bc6d8395f8d17"
   },
   {
     "url": "zh/frame/java-8.html",
-    "revision": "3825ba4d8780db232433987c819c2924"
+    "revision": "2b20aa989864c29e29d474aa1dab44f2"
   },
   {
     "url": "zh/frame/java-basics.html",
-    "revision": "6df7bc540b05e755d4cc51a4c41ff3f7"
+    "revision": "d0fd82a1eec3974157c2ef0e7b3cf93f"
   },
   {
     "url": "zh/frame/java-collection.html",
-    "revision": "1a685071d56c06178f100b724b7053a7"
+    "revision": "a324bc8a1b6b42fdd3e14e3315562e81"
   },
   {
     "url": "zh/frame/java-current.html",
-    "revision": "8225e72f6d436f775bd2910a2b13e82f"
+    "revision": "a94bc44a16f3ec9f31a30a557762b9e3"
   },
   {
     "url": "zh/frame/java-io.html",
-    "revision": "968a2e5947372f938387ecb0a16a013a"
+    "revision": "e64b2a5a6ed2ebc60a9fe5f0fef61290"
   },
   {
     "url": "zh/frame/java-jvm.html",
-    "revision": "5ebf3f786cdb4cf1ec9a47736c6f91da"
+    "revision": "70e79f8c2ca3885beba114b331a7c56b"
   },
   {
     "url": "zh/frame/markdown-slot.html",
-    "revision": "4291317a94145318c19dfec0770c9528"
+    "revision": "2a32a607c6d26b462d04f8c1712e47e6"
   },
   {
     "url": "zh/frame/markdown.html",
-    "revision": "e108d86802f22f116b9880851ea89411"
+    "revision": "8064cdf87d906d52e9abfa428fb9f893"
   },
   {
     "url": "zh/frame/mq-kafka.html",
-    "revision": "8bbcb085fd94b9f75d5851b30b437a6d"
+    "revision": "fa3e065adb490aec20034608000f45bc"
   },
   {
     "url": "zh/frame/mq-rabbit.html",
-    "revision": "701dc5931a4f922c64acdeae66d6e918"
+    "revision": "d5d8fecabcb6d575491c01b548d41478"
   },
   {
     "url": "zh/frame/mybatis-basics.html",
-    "revision": "4df77f9a73f1582febf49f02662737d5"
+    "revision": "b35c625c1dbb7bcdc25f0074eacfd6c3"
   },
   {
     "url": "zh/frame/permalinks.html",
-    "revision": "3f4ef3fd373b05a70d2e276a6288baf3"
+    "revision": "f5b3aedf4f6d828723a2aa7d639f0e16"
   },
   {
     "url": "zh/frame/spring-basics.html",
-    "revision": "a3c65cb19b273d6b00685e80ff5e06d0"
+    "revision": "7a1ab2dce630fd4de1c6dfd75ebbb90f"
   },
   {
     "url": "zh/frame/spring-boot.html",
-    "revision": "7ea7a452e7bd7d319a4d02520a50c9fa"
+    "revision": "412b07afb4d6f2d0de48116b1b78ee33"
   },
   {
     "url": "zh/frame/spring-cloud.html",
-    "revision": "34fdf9567ecba268720cc8112840fe28"
+    "revision": "d8b20cf8f604f0e1c3ede0d1d98a1316"
   },
   {
     "url": "zh/frame/using-vue.html",
-    "revision": "bd64ff19edd7cd11e14594d4947c436d"
+    "revision": "402bd54d11dcf728c2136f4f8ce11ee4"
   },
   {
     "url": "zh/framework/assets.html",
-    "revision": "7b377ee095ec4f2e25af49dc5c353c7c"
+    "revision": "3c46bf21665665e75c402838bbd00c67"
   },
   {
     "url": "zh/framework/basic-config.html",
-    "revision": "4d7a906d60a8acf40fc8a5ab9ff0cc30"
+    "revision": "05c10a26aff9490bd54752289251e2ca"
   },
   {
     "url": "zh/framework/build-basics.html",
-    "revision": "cf78b3eadd9f219bd046ea7d62828b60"
+    "revision": "9fce605fe255f63bb416853cf5c032e2"
   },
   {
     "url": "zh/framework/build-demo.html",
-    "revision": "16aed3b86e6a00f1e0da72139045e71a"
+    "revision": "23c719dbabd45ccb130c20fa5ef3d0c0"
   },
   {
     "url": "zh/framework/build-tech.html",
-    "revision": "85392b9feb0734b201904db96e26b988"
+    "revision": "ab58d59c2f3f6032a2217e66b2b8c558"
   },
   {
     "url": "zh/framework/compute-introduce.html",
-    "revision": "db9a00a4e702c4790bf9bb5419f84c9e"
+    "revision": "66a8e45c84c4b3f23ce410294b409fd8"
   },
   {
     "url": "zh/framework/computer-http.html",
-    "revision": "5847bdc499b48e678daaca3684a92af0"
+    "revision": "7f58379d3d76970856156851c9ad71ce"
   },
   {
     "url": "zh/framework/computer-linux.html",
-    "revision": "e99be93dc4bc407ae16b2c126b41464a"
+    "revision": "0b5d307801e72352a506d0f7118cbaad"
   },
   {
     "url": "zh/framework/computer-network.html",
-    "revision": "897098fcdc1d4caa0d82907d8efc2ab5"
+    "revision": "2fe730d7afc5416350732b8d055cdacd"
   },
   {
     "url": "zh/framework/computer-socket.html",
-    "revision": "4938533b3bc2b81509aae54c5af42565"
+    "revision": "1f636811ff0810bc1aa0e57c5a1d8c66"
   },
   {
     "url": "zh/framework/computer-system.html",
-    "revision": "3fe10e4bccbaac8a014ce36a378b4bf4"
+    "revision": "9ef3d5a804cac4dd2544af3660aa7d32"
   },
   {
     "url": "zh/framework/data-struct.html",
-    "revision": "1499626ca4d17cbef3896d42164ecb00"
+    "revision": "c34cc8daf2b156b5896379ff590392ad"
   },
   {
     "url": "zh/framework/database-basics.html",
-    "revision": "ee26391a1e7aa47c05be500fcf56c5f5"
+    "revision": "fedcd7a2fe76e24d71a0e8b3d560f114"
   },
   {
     "url": "zh/framework/database-es.html",
-    "revision": "54d4c50d0a48c660b6d8c81239ef899a"
+    "revision": "3517f043c323a4a2a433570e3a5b81ce"
   },
   {
     "url": "zh/framework/database-mysql.html",
-    "revision": "cb10471e74e14aee09f8dd5cc81eba62"
+    "revision": "8a9406e4975fab1781bc793957a04f10"
   },
   {
     "url": "zh/framework/database-redis.html",
-    "revision": "b01bfe90c62d31c447a3c1f1e04e4c9c"
+    "revision": "b321c7e10f4c1063e3a29388170ed125"
   },
   {
     "url": "zh/framework/database-sql.html",
-    "revision": "ff4ca165c8b3ca7bd47a5bd7afcead3d"
+    "revision": "d774b065ccfcaf404761bda7ba52d486"
   },
   {
     "url": "zh/framework/deploy.html",
-    "revision": "0233603ed7462999f61f143619a7d965"
+    "revision": "b713bc2261fc65d3bfc232df430c15ae"
   },
   {
     "url": "zh/framework/directory-structure.html",
-    "revision": "624c1b53499f2c4d664c11eab4936eee"
+    "revision": "50079710a2b54bda53eb3d5a4678f7d4"
   },
   {
     "url": "zh/framework/docker.html",
-    "revision": "2a741ad30dba60937cbc875cbf0855d7"
+    "revision": "16192516d01f409ef0f9b03c01e61700"
   },
   {
     "url": "zh/framework/frontmatter.html",
-    "revision": "205f69649cacc9687355e5cc26a46290"
+    "revision": "b735f086d61dbc6c12b4c99d074dfc6a"
   },
   {
     "url": "zh/framework/getting-started.html",
-    "revision": "d7a2800f78fd4b686080f75e6d049962"
+    "revision": "eebdcda4fce2b08d985cfcb412edece7"
   },
   {
     "url": "zh/framework/global-computed.html",
-    "revision": "f7a834a03e6af8737b0c55367b07f0bd"
+    "revision": "5174a1734146ece1d3e4f77ef25c632f"
   },
   {
     "url": "zh/framework/i18n.html",
-    "revision": "22d276b4e26a26a503a132b4afef2ece"
+    "revision": "7b863bfd66973eb134c0b78dcb824855"
   },
   {
     "url": "zh/framework/index.html",
-    "revision": "e8046427e54f92a7a724564ebe0dbbca"
+    "revision": "bc71579afedbbc01d066aeb95b86a6fc"
   },
   {
     "url": "zh/framework/internal-sort.html",
-    "revision": "d91328c9f898383e10eff0fd3bc4000e"
+    "revision": "55d3ad29ad1f93e81d5176f387ffe506"
   },
   {
     "url": "zh/framework/java-8.html",
-    "revision": "85f2ae16a3fa83ad133c7c4001012735"
+    "revision": "96099cf815f338ad8d790e9257df6d1d"
   },
   {
     "url": "zh/framework/java-basics.html",
-    "revision": "f57f0426b5a3539faf7e4b0d6ba54312"
+    "revision": "8984026ad4b0c1db0be908188c7599b6"
   },
   {
     "url": "zh/framework/java-collection.html",
-    "revision": "baf595b96e294051e0b2bc7c2cef5bfe"
+    "revision": "ca28c6836fcafdb20ee08cb9bb6e29cb"
   },
   {
     "url": "zh/framework/java-current.html",
-    "revision": "8a16e0cbb964b46e61c6f2a38d47bb32"
+    "revision": "23d8c66789d30b47de2054db2fd6c20e"
   },
   {
     "url": "zh/framework/java-io.html",
-    "revision": "6ff58b78e5988ea3dab22afbd496956e"
+    "revision": "dfadeba535ed4b4b3b802f7c3bf908c0"
   },
   {
     "url": "zh/framework/java-jvm.html",
-    "revision": "c472643e1e9d3417aa95934acd8fe927"
+    "revision": "e47f345335a58d98097d803640371725"
   },
   {
     "url": "zh/framework/markdown-slot.html",
-    "revision": "72e22edefb73fa9aa3f2ebffb7613f26"
+    "revision": "1aa5e2ec207bc66b28d1dacb672709bf"
   },
   {
     "url": "zh/framework/markdown.html",
-    "revision": "f95316f93bb22c9c32f034db6b7afd72"
+    "revision": "1b06e7eff6cb1e8fcb50de180512c255"
   },
   {
     "url": "zh/framework/mq-kafka.html",
-    "revision": "6f32acdcf1c77f91d7db48195c0fa4da"
+    "revision": "5cf2afb430f2f5b03e99c68dc1204be8"
   },
   {
     "url": "zh/framework/mq-rabbit.html",
-    "revision": "f93f9e62789f5efbc102745935a3b90f"
+    "revision": "7866fea595de63c9fa1bb7c35401efb0"
   },
   {
     "url": "zh/framework/mybatis-basics.html",
-    "revision": "9fa639d008a8c37a38467d448b7e4413"
+    "revision": "4d84d04b6ab259d7daded5b6f6ad1e13"
   },
   {
     "url": "zh/framework/permalinks.html",
-    "revision": "b3943f2c49ca175d6db58342e41b9498"
+    "revision": "f31ad0589c9c15c335266855503779a8"
   },
   {
     "url": "zh/framework/spring-basics.html",
-    "revision": "4ca97a4066af2b3c001bd04174be3c79"
+    "revision": "a636b02b545ec0a6bec6bb9d95116a96"
   },
   {
     "url": "zh/framework/spring-boot.html",
-    "revision": "63fe0f9e3b11d92c1d240f5c3887d6f0"
+    "revision": "7351c9941a4651eab59cb1c0bb831baf"
   },
   {
     "url": "zh/framework/spring-cloud.html",
-    "revision": "c75e12ed25ae192ab910d4afa2677626"
+    "revision": "eb5ba80ecbe152d117a905e267d2dfa3"
   },
   {
     "url": "zh/framework/using-vue.html",
-    "revision": "c230369610fdde16dfcfa9420e7626c3"
+    "revision": "032c944bcf515f3b56d84ef777ba24b6"
   },
   {
     "url": "zh/guide/assets.html",
-    "revision": "58497a2faf25f95e7612a5298ccd4037"
+    "revision": "5a2ea7617009aac5569c9e9c81cf3ff5"
   },
   {
     "url": "zh/guide/basic-config.html",
-    "revision": "aa0193a43cc32b2562f45eef215120fe"
+    "revision": "bd5414e60317d261cdced8600cf80b52"
   },
   {
     "url": "zh/guide/build-basics.html",
-    "revision": "22c56229e7e433cec00ebf725677952d"
+    "revision": "e783cc7d7335dcaa13b6ac29e9db2ebd"
   },
   {
     "url": "zh/guide/build-demo.html",
-    "revision": "0361fe3e44071bb76788d74001efa1ab"
+    "revision": "c7a33b98ad6b0403fd82d1f9bb7dc36a"
   },
   {
     "url": "zh/guide/build-tech.html",
-    "revision": "d8e7e41768807bfd8e0c523fb8d47e03"
+    "revision": "993bfd2552aebeb10bf1f286049b450d"
   },
   {
     "url": "zh/guide/compute-introduce.html",
-    "revision": "71644f3e381c9af5baf4686cd7184b10"
+    "revision": "2ccbe64a0333e8a9fe217f335e561efb"
   },
   {
     "url": "zh/guide/computer-http.html",
-    "revision": "618575bd3b3ab506163b8f1f3b86cbef"
+    "revision": "36584fa118b781138c53777b0abd1a93"
   },
   {
     "url": "zh/guide/computer-linux.html",
-    "revision": "b606be9185b09fe1e8d6f55717be9da6"
+    "revision": "80ea9cb011dbbc2ce62e974eaa7f56bc"
   },
   {
     "url": "zh/guide/computer-network.html",
-    "revision": "f01df5c333200002f70db24f7a53167b"
+    "revision": "30e611d9366e7c4d9a8be79e0e7595b4"
   },
   {
     "url": "zh/guide/computer-socket.html",
-    "revision": "867da4dfdd1731428ac5d729a112ff75"
+    "revision": "efc1d6831d0c383d22a8d19aef732bc4"
   },
   {
     "url": "zh/guide/computer-system.html",
-    "revision": "d4b3a8c26422d5be5ac5168ad5e7cc8b"
+    "revision": "898324cabb22b90301cfa64bbe32dcd9"
   },
   {
     "url": "zh/guide/data-struct.html",
-    "revision": "0b6c2bb5f7ed40468708d8e1bef3d26e"
+    "revision": "597655c7707ba539cbc8301b7534f6bc"
   },
   {
     "url": "zh/guide/database-basics.html",
-    "revision": "aa6c26d3290c05be22f005c30f691895"
+    "revision": "a80b07dfdfbaa2159ddd7a74f501f014"
   },
   {
     "url": "zh/guide/database-es.html",
-    "revision": "f7653d69aceaaf39f1cefeaaf95c3a75"
+    "revision": "1bce8b7d92a034838e402d55259517fe"
   },
   {
     "url": "zh/guide/database-mysql.html",
-    "revision": "31b8396236422287e40e8a52bc8c0c78"
+    "revision": "fce2b8c298b0fce16b112568fb42b408"
   },
   {
     "url": "zh/guide/database-redis.html",
-    "revision": "e1aad6fd8dd09a4f33c6feff65515a20"
+    "revision": "4cd8b47848946ebee7fd645a42fa3903"
   },
   {
     "url": "zh/guide/database-sql.html",
-    "revision": "c50e901cd7d9bd51edfe6394ccd7fdd5"
+    "revision": "b687d832578b729f544b6cb52df61390"
   },
   {
     "url": "zh/guide/deploy.html",
-    "revision": "fa3aab793c3ef4fd6913ed8fc6c1d87d"
+    "revision": "ea89fc57aad778388bb9a22fb6b9d74b"
   },
   {
     "url": "zh/guide/directory-structure.html",
-    "revision": "33e31b75ae224f709dd17d76f861436e"
+    "revision": "76ea85b1d65267a31f8ea44178aaf311"
   },
   {
     "url": "zh/guide/docker.html",
-    "revision": "239967624dafeef30bfb3963571a1b0f"
+    "revision": "46554bd4171778a4e55d7a6acb00834c"
   },
   {
     "url": "zh/guide/frontmatter.html",
-    "revision": "7aa8e6485c6485068b05fc81e8b7ad0a"
+    "revision": "7dd1dcbaf4fd8658767092afd1d575c9"
   },
   {
     "url": "zh/guide/getting-started.html",
-    "revision": "b4762771c696d636f9cbb1d596c6ee5c"
+    "revision": "96598426d86dd062fb01690a6a0dc1f0"
   },
   {
     "url": "zh/guide/global-computed.html",
-    "revision": "91d0458c231f43fd3739c1f9b991c25f"
+    "revision": "1ff5c53317c133ad04bd9c39dba0513e"
   },
   {
     "url": "zh/guide/i18n.html",
-    "revision": "6fff7fada3584fe43cf69ed162576755"
+    "revision": "c76264bd4c1db57867af6b9c17ba9e78"
   },
   {
     "url": "zh/guide/index.html",
-    "revision": "c5298a2edfe86dac82e3b17ec40318d3"
+    "revision": "08e6942e0eaa6fd2d88ce862a2366903"
   },
   {
     "url": "zh/guide/internal-sort.html",
-    "revision": "856a676a14198a4e7c4555c8c14f58b3"
+    "revision": "95b9ecbd0d6e06068394d348a85dd972"
   },
   {
     "url": "zh/guide/java-8.html",
-    "revision": "de636f0dae2882880261961174261b37"
+    "revision": "56c7529d411882170dc8f8762737a0c9"
   },
   {
     "url": "zh/guide/java-basics.html",
-    "revision": "7641c0b3a5970a58a89891ed79733591"
+    "revision": "1e7f68708fbd1613699060ecd6df2b9c"
   },
   {
     "url": "zh/guide/java-collection.html",
-    "revision": "19816462022e5e296983c6c9ffa24eb2"
+    "revision": "d2217dba963acdcef67ec21dc681f771"
   },
   {
     "url": "zh/guide/java-current.html",
-    "revision": "fc546853b72e01760f9525285c423084"
+    "revision": "d28f98655205d6481458f1edd1d11e64"
   },
   {
     "url": "zh/guide/java-io.html",
-    "revision": "235de06bbbb7cee2336517c21e36b39e"
+    "revision": "e2e3fd49282061e825f23bdf3d9c683f"
   },
   {
     "url": "zh/guide/java-jvm.html",
-    "revision": "dde0c850ef1caec53da2a2f61ee06bc0"
+    "revision": "d0c068b0d33f18422acc1317603e64d1"
   },
   {
     "url": "zh/guide/markdown-slot.html",
-    "revision": "cde98b45840bc474a6908af393887fea"
+    "revision": "f1a2d6600a84c4619c78a819928e5ab0"
   },
   {
     "url": "zh/guide/markdown.html",
-    "revision": "92a303a717ce60cb4735b852f43c928d"
+    "revision": "58027d1068a0fa96ec080dc5f2612d7b"
   },
   {
     "url": "zh/guide/mq-kafka.html",
-    "revision": "cb1deaf418b30062000893ee5ecdfc77"
+    "revision": "4a6d3bd89d2376dde70c7460c0a4d17e"
   },
   {
     "url": "zh/guide/mq-rabbit.html",
-    "revision": "8ece783f3c584baeb552c0a5e3fe9a02"
+    "revision": "e36c3b3b515626aee26b48e226268a85"
   },
   {
     "url": "zh/guide/mybatis-basics.html",
-    "revision": "8a8d7ab8b440483b17353b68d39bb1e1"
+    "revision": "3d4927a5225b5a7f2e9569be243f5074"
   },
   {
     "url": "zh/guide/permalinks.html",
-    "revision": "df2aeed53116e6032659de62c7a5933f"
+    "revision": "77f8982ba7dede1c3608e5c8c4188d0f"
   },
   {
     "url": "zh/guide/spring-basics.html",
-    "revision": "d476ae20ce2c5caa5e0f30dfabadb7df"
+    "revision": "11f77a57970d8af14d8bb351965ae8af"
   },
   {
     "url": "zh/guide/spring-boot.html",
-    "revision": "b711345e155864185524e88ba9738e7b"
+    "revision": "526659b0e1946335adb40abba943822c"
   },
   {
     "url": "zh/guide/spring-cloud.html",
-    "revision": "e0d4e21b765ebe7fcd92b31d3872a441"
+    "revision": "5a429369d51e11808647363f39aa2bc3"
   },
   {
     "url": "zh/guide/using-vue.html",
-    "revision": "1782f84464be2cf59e458a6ba2602220"
+    "revision": "a7474469da2d66e2465b9f5e0d276651"
   },
   {
     "url": "zh/index.html",
-    "revision": "8a3ccd0273a85b015a7f9b21a514e4b0"
+    "revision": "a95d1999c865fe62fd09e77e4051d42d"
   },
   {
     "url": "zh/java/assets.html",
-    "revision": "a7f6eda5d6034571b00e192ee31b10c1"
+    "revision": "07251826987fbb9f420595134253f04e"
   },
   {
     "url": "zh/java/basic-config.html",
-    "revision": "e1e413bd175794c46e979db875473bba"
+    "revision": "c08a5aa29c305064d527806e50f946eb"
   },
   {
     "url": "zh/java/build-basics.html",
-    "revision": "60c3b63230eb27a8d1ed3cb29140e6fa"
+    "revision": "2b8322b48d8303f11452df85f1946855"
   },
   {
     "url": "zh/java/build-demo.html",
-    "revision": "df9916b24e5ff3407fb9b510f0de57d5"
+    "revision": "946d4e3fcd86abfc58b6554875e46051"
   },
   {
     "url": "zh/java/build-tech.html",
-    "revision": "54ce4066e7b0ab0c49f36c8b0d821ec0"
+    "revision": "2bde4acfb12054f799b4d49ca4619a68"
   },
   {
     "url": "zh/java/compute-introduce.html",
-    "revision": "f6d6612ad063b6082145446b84cb4653"
+    "revision": "89bd0446de82e0c36b22b911596adf20"
   },
   {
     "url": "zh/java/computer-http.html",
-    "revision": "6fd962a6afbde2486ff573ce6c197c0f"
+    "revision": "6800dc4bd6dd0c695281a3c0c275130d"
   },
   {
     "url": "zh/java/computer-linux.html",
-    "revision": "03f3bfc3743908511bc3a85fc185bdfa"
+    "revision": "f8eed4c33fa3492a96830feb7b470eb7"
   },
   {
     "url": "zh/java/computer-network.html",
-    "revision": "763277de656e0ff58a33679356fa9335"
+    "revision": "79745e2e5767ee481152fafdd4179f48"
   },
   {
     "url": "zh/java/computer-socket.html",
-    "revision": "bc604df0e2d6ae5e80fc3fe7dc95167c"
+    "revision": "7416581d0f94134e090a58d2feaef602"
   },
   {
     "url": "zh/java/computer-system.html",
-    "revision": "c52e1389642a76dcd08e26cee74670d0"
+    "revision": "6ea2454165d08b71c8d82b2a01ab967f"
   },
   {
     "url": "zh/java/data-struct.html",
-    "revision": "d2b62dd282a97d1a12dcb3268ee50af5"
+    "revision": "7b55a2604dde648e2d81fee6416dba4a"
   },
   {
     "url": "zh/java/database-basics.html",
-    "revision": "ac3631e46eabc31535463dc4f954d4fe"
+    "revision": "ffaeaa190e308bb984ac9f9e591a3ea7"
   },
   {
     "url": "zh/java/database-es.html",
-    "revision": "68367bb74e2134e81bda2effa2a5a964"
+    "revision": "e8cb6ef0d11694affb5507485565ffc6"
   },
   {
     "url": "zh/java/database-mysql.html",
-    "revision": "ee7e9c27cea85b4b3739d9e243f93116"
+    "revision": "4e2ef87cd013a086af8cb87e0de541b3"
   },
   {
     "url": "zh/java/database-redis.html",
-    "revision": "faaf6324a2a9d82c2f798317b7538ffa"
+    "revision": "fb6c5aa8ca43001f507c27633378be31"
   },
   {
     "url": "zh/java/database-sql.html",
-    "revision": "e31a39f15cc74960f4e8ec6d891876bd"
+    "revision": "956f4020346c72f4d5dd515a3da0e994"
   },
   {
     "url": "zh/java/deploy.html",
-    "revision": "4511cd8f9ae6ec30d2be7bc97d20c066"
+    "revision": "b5a2e5aa409f99162788ae06b6e022ba"
   },
   {
     "url": "zh/java/directory-structure.html",
-    "revision": "3908c3915f1b2b006ba72006afc29faa"
+    "revision": "1f5206fcaae68e81f201b732a9b43270"
   },
   {
     "url": "zh/java/docker.html",
-    "revision": "5c2388a16f036eacf55ce51595398b77"
+    "revision": "4ab65490ccb3d4ef984dfdd36b005251"
   },
   {
     "url": "zh/java/frontmatter.html",
-    "revision": "9aba206edc1416be044f607139d79246"
+    "revision": "0eb98cdab22ab7648b793f45ff231547"
   },
   {
     "url": "zh/java/getting-started.html",
-    "revision": "60defc7bbad28d954adc0273c26a375d"
+    "revision": "b0c572e3bb7c14c9f53c6a98d9b2f91f"
   },
   {
     "url": "zh/java/global-computed.html",
-    "revision": "ce113a1894acc73151a17bfd82ac17e0"
+    "revision": "c89018e3d061e4fbb15a900636470a43"
   },
   {
     "url": "zh/java/i18n.html",
-    "revision": "d5ce318218178cb78b8a57f45fc86684"
+    "revision": "7de33e2b7dcdd548ee56f9f4478de397"
   },
   {
     "url": "zh/java/index.html",
-    "revision": "3643b186dd0515048ebd6bd1f0028281"
+    "revision": "ce099eb4e0fc97e36623aea413214f8f"
   },
   {
     "url": "zh/java/internal-sort.html",
-    "revision": "8e22989428a2d9ac70abbd8cfdd8b239"
+    "revision": "dc761e65f936d28dc0d919280610778e"
   },
   {
     "url": "zh/java/java-8.html",
-    "revision": "bd7025067906be7727df057ad1b2e87d"
+    "revision": "2bb54304bf54543d01899652eff474c3"
   },
   {
     "url": "zh/java/java-basics.html",
-    "revision": "fce6aa75794a7e0d6e62a09ca55966ea"
+    "revision": "46090ac728430862a4fe86cedf357e73"
   },
   {
     "url": "zh/java/java-collection.html",
-    "revision": "798a549c63db643a0106b8ffca0f205a"
+    "revision": "78205567b45dbad76eb4ae96c2816dd6"
   },
   {
     "url": "zh/java/java-current.html",
-    "revision": "15faa657827a8639bb880e1f37ec68d2"
+    "revision": "b3dba93b2df9170ebb9509e101e0afc1"
   },
   {
     "url": "zh/java/java-io.html",
-    "revision": "3afd5b07c67ec60c82d32db577f727ed"
+    "revision": "71ae76067dd93676c99fdeb3fefef1a2"
   },
   {
     "url": "zh/java/java-jvm.html",
-    "revision": "c48d18eb6cf8a124ee615e1c5fda165a"
+    "revision": "daeb68e68db8c870e0ae00f51d84cdcb"
   },
   {
     "url": "zh/java/markdown-slot.html",
-    "revision": "4e2e9e4d9850e458f4612e91c54f03f2"
+    "revision": "07c92de5511f9ec61cb3664e7d25aafb"
   },
   {
     "url": "zh/java/markdown.html",
-    "revision": "79e13eb752427989389e438ff9de1e21"
+    "revision": "621430c19ed6784c3aed86970468ccb9"
   },
   {
     "url": "zh/java/mq-kafka.html",
-    "revision": "f0ef711a64cfcef58c16fc054f2f14f0"
+    "revision": "41cd7174b6eb2b5c1a87e1b3d29915b7"
   },
   {
     "url": "zh/java/mq-rabbit.html",
-    "revision": "1c0a47c1c65d16d6267ca42e7c4fb358"
+    "revision": "875aa92bdad57af030e6ebe1792c373b"
   },
   {
     "url": "zh/java/mybatis-basics.html",
-    "revision": "1de4225196b1b5c0c88a4ca05e15dc10"
+    "revision": "f783dbffc0c0d07eb15115e097ce6c13"
   },
   {
     "url": "zh/java/permalinks.html",
-    "revision": "1d44ad1c575748d8de5a73337ceb9ab6"
+    "revision": "c48bfdfef64716949127e2dc23be79a0"
   },
   {
     "url": "zh/java/spring-basics.html",
-    "revision": "39679e6bb61432f2a3c8c567cdd6ca34"
+    "revision": "d9eeec1930c0174b0b9d038a47606cac"
   },
   {
     "url": "zh/java/spring-boot.html",
-    "revision": "da92a4847e8f649afa98646edcd0943e"
+    "revision": "8647feea70d9b639d9a204dae6be0cfd"
   },
   {
     "url": "zh/java/spring-cloud.html",
-    "revision": "3409ec50da8e83640092a12fd309a6cb"
+    "revision": "c8a1114a00e56c49720dce241d23f065"
   },
   {
     "url": "zh/java/using-vue.html",
-    "revision": "ef45dbb9086a3d0426392a35d4d8a4b7"
+    "revision": "e6d91dd9b3142d879cf42d706ceaf705"
   },
   {
     "url": "zh/miscellaneous/design-concepts.html",
-    "revision": "d17cb8fab4a427467fa9d8eba30ae8b6"
+    "revision": "b9cb9047b57c797377dcd8071cb3b7c8"
   },
   {
     "url": "zh/miscellaneous/glossary.html",
-    "revision": "472d626ac02e2cc30ae58608886cf265"
+    "revision": "4f7dfb4b845856871d0464b7f0de9850"
   },
   {
     "url": "zh/miscellaneous/local-development.html",
-    "revision": "dc32ab13c2c5b94b4f345fb663d41b7c"
+    "revision": "7c963ebcebe44870f4069de141961117"
   },
   {
     "url": "zh/miscellaneous/migration-guide.html",
-    "revision": "42d12491934c714827878cde5fb97045"
+    "revision": "af9e61af5afd27c94bcb4613514d5589"
   },
   {
     "url": "zh/plugin/context-api.html",
-    "revision": "7beb9ae556767f502c836f870a719349"
+    "revision": "e0fbe3edd7abf2fd2f70f5ac62323656"
   },
   {
     "url": "zh/plugin/index.html",
-    "revision": "927508690109a77b5153ff3016c85d19"
+    "revision": "1d6486c9bbddcc0cbb1a07fc3c71c6a4"
   },
   {
     "url": "zh/plugin/life-cycle.html",
-    "revision": "528f2b19fe8df56753f9389719f7710f"
+    "revision": "ae69593c65c1748f891dce4729d3eb56"
   },
   {
     "url": "zh/plugin/official/plugin-active-header-links.html",
-    "revision": "33ae4bdafdd085faa0b8766e859d5f51"
+    "revision": "20b14e8b53b761001c5120fdb9469332"
   },
   {
     "url": "zh/plugin/official/plugin-back-to-top.html",
-    "revision": "42f2a59c81ce6e967184ca6d4c63e034"
+    "revision": "72f1f77aeb0016aaf2b2384aea4b9304"
   },
   {
     "url": "zh/plugin/official/plugin-blog.html",
-    "revision": "0cf6c782ea399446b6c44c990d20a481"
+    "revision": "ecc7e34d6499f6a788fb03c69b5b7ff5"
   },
   {
     "url": "zh/plugin/official/plugin-google-analytics.html",
-    "revision": "ace5c7f483cdb093d5fd2562a78c7926"
+    "revision": "bdb370cc808c5ddbcbe3451e43eb7569"
   },
   {
     "url": "zh/plugin/official/plugin-last-updated.html",
-    "revision": "670bd4afc9ef5db1732ff4147c18a7dc"
+    "revision": "25702c19a47255766d26cb1b96908a32"
   },
   {
     "url": "zh/plugin/official/plugin-medium-zoom.html",
-    "revision": "2b86595de8e82fc167ee91f7d02bf4d7"
+    "revision": "c43b09c0de91673c999a62be1fa485a9"
   },
   {
     "url": "zh/plugin/official/plugin-nprogress.html",
-    "revision": "62f41b573a6ea707759ffb22cf6bfe01"
+    "revision": "0b325fd14f916c0b6b879176c497f5ba"
   },
   {
     "url": "zh/plugin/official/plugin-pwa.html",
-    "revision": "53810c6b75e36f74a650ca17d5f5bc1c"
+    "revision": "a5a402c40ce1cf07ad91147be8015eeb"
   },
   {
     "url": "zh/plugin/official/plugin-register-components.html",
-    "revision": "4fc791e67b99e5fe4f4ba465f698795e"
+    "revision": "53717b2137330059130a42427e44aa17"
   },
   {
     "url": "zh/plugin/official/plugin-search.html",
-    "revision": "d09b484b98006a83413f20f46d6b49db"
+    "revision": "10583f803c2d9872d00dcc7712246085"
   },
   {
     "url": "zh/plugin/option-api.html",
-    "revision": "b2ccced96a29971397406d2c4b06a49c"
+    "revision": "ffe716b6b979a49b9520937567746e6b"
   },
   {
     "url": "zh/plugin/using-a-plugin.html",
-    "revision": "54947eee8e43d11087f31e7b8e4ce8a4"
+    "revision": "e18f5051a6bfaff9d03222a5a0a56037"
   },
   {
     "url": "zh/plugin/writing-a-plugin.html",
-    "revision": "c4f9ebec4d2feaba699f323cd429374d"
+    "revision": "791714958a6246744b71a93e5b0f284b"
   },
   {
     "url": "zh/spring/assets.html",
-    "revision": "1b37cb6b28bb933313314e5ab2e49cbe"
+    "revision": "26bbd151c5cb2831d91dae74d9c28445"
   },
   {
     "url": "zh/spring/basic-config.html",
-    "revision": "82dc6b580158decbaa2a0d72e163e4f0"
+    "revision": "a5a393e9bf1bd83c79321a9933984e84"
   },
   {
     "url": "zh/spring/build-basics.html",
-    "revision": "12c8fc568515bd37029f5436e3ed6e19"
+    "revision": "1c171a23ce30924c5c55d9debf20c14e"
   },
   {
     "url": "zh/spring/build-demo.html",
-    "revision": "46657eceec89e457f6c8719c68d4c452"
+    "revision": "2c8b2e81217ac11115b969c3f3b66634"
   },
   {
     "url": "zh/spring/build-tech.html",
-    "revision": "e22461e5f65ee8535154ed82048f821e"
+    "revision": "01dbc2874844ebe18486e5fa3eac322b"
   },
   {
     "url": "zh/spring/compute-introduce.html",
-    "revision": "147bd3bc38133471cfee073b68e6ef05"
+    "revision": "90495c278e53e04735f11e4792f1e0c8"
   },
   {
     "url": "zh/spring/computer-http.html",
-    "revision": "9f30849cf880cc2417b5163c4b977d69"
+    "revision": "49e20578fd35cd6bf2828fddda331734"
   },
   {
     "url": "zh/spring/computer-linux.html",
-    "revision": "5d88fc3c35d722ab5a2fc4c956f28de9"
+    "revision": "4be681ca5b3eb1f1a897633882b39192"
   },
   {
     "url": "zh/spring/computer-network.html",
-    "revision": "7e851d64d3a9853662ba231a2e1bd85d"
+    "revision": "1562e3e900acc67cb20ef9fa03d3fb52"
   },
   {
     "url": "zh/spring/computer-socket.html",
-    "revision": "6e725e480a5eaad670e22f6f9a849235"
+    "revision": "1bed2848375dc0e3e15f49c7e72c5840"
   },
   {
     "url": "zh/spring/computer-system.html",
-    "revision": "52623c2665487f340793046f033a2f90"
+    "revision": "7acec8b6dcb9b99b82c778cdf47dfcfd"
   },
   {
     "url": "zh/spring/data-struct.html",
-    "revision": "8aaf6c9a9a53dc98c836b36bb8f652a7"
+    "revision": "3bc15d923df88e1588af9511b8de1d12"
   },
   {
     "url": "zh/spring/database-basics.html",
-    "revision": "b119654b57f624d9beebc4019f0c1635"
+    "revision": "95916e84d81bdda174060e2cc7b5b08a"
   },
   {
     "url": "zh/spring/database-es.html",
-    "revision": "e94a0dfdfc56016978799d1809b63651"
+    "revision": "55aa344e9d7ef49f87bb8c695f4b7d5f"
   },
   {
     "url": "zh/spring/database-mysql.html",
-    "revision": "9ffa31c7dd9b00a98bf0c7598d8c2ba4"
+    "revision": "f1074f6856ba7b2979f89e62e17a4c77"
   },
   {
     "url": "zh/spring/database-redis.html",
-    "revision": "48a409dac725b5c5abeeed64af885e46"
+    "revision": "5ce7e45a06b55c045fa827226390387d"
   },
   {
     "url": "zh/spring/database-sql.html",
-    "revision": "df44cc6f461a7ad7162b745633a05347"
+    "revision": "889ff00c3227593123a8bdf2c2d7409d"
   },
   {
     "url": "zh/spring/deploy.html",
-    "revision": "a27f9195e550f20a6958c0cd7c665a5c"
+    "revision": "85c84bde398ad4f96c3619bf741a07b3"
   },
   {
     "url": "zh/spring/directory-structure.html",
-    "revision": "0ae2bdede7c61d35050cdb23fa182742"
+    "revision": "7cb3bf8e6e75472c389766ecdee27967"
   },
   {
     "url": "zh/spring/docker.html",
-    "revision": "237ff29539df853187345d8ea1e9930c"
+    "revision": "11cb383d5d6ec00ab7ec0439cc394636"
   },
   {
     "url": "zh/spring/frontmatter.html",
-    "revision": "4ae8d0cc0a8450198022d49f7dd47b14"
+    "revision": "4cd33646d138da3cca50b0f1b1cb51f4"
   },
   {
     "url": "zh/spring/getting-started.html",
-    "revision": "da2a2835a19a538ae8bcfcb910f859c9"
+    "revision": "a179f1853c0277b6805ad636d440bc93"
   },
   {
     "url": "zh/spring/global-computed.html",
-    "revision": "28ed08aae33b8424008d102b55a1eab1"
+    "revision": "6af6e28ba4e4f9eeff01a8e9c4d065c9"
   },
   {
     "url": "zh/spring/i18n.html",
-    "revision": "ab35ef3341f9c7f6da650ac9ca974d1d"
+    "revision": "59b7de433b2f40948b14389fce26cee5"
   },
   {
     "url": "zh/spring/index.html",
-    "revision": "2fd5b621bfa90c3ebe6b4d89b4b2dbaa"
+    "revision": "8a097404056e9cde02da3ce5348fb1a7"
   },
   {
     "url": "zh/spring/internal-sort.html",
-    "revision": "5f4783c405bb6723d34455a3e259026b"
+    "revision": "2cb44ae5faa7d0c946453a52d06661c8"
   },
   {
     "url": "zh/spring/java-8.html",
-    "revision": "a5c6a60a1bc4450b54e0058eb80c8c14"
+    "revision": "703c1ba94d5e59b45578a87b83592cbb"
   },
   {
     "url": "zh/spring/java-basics.html",
-    "revision": "5c925cef64edc51731e1859ee7c41916"
+    "revision": "8334ef38f88ccdafa8ba61df3c5da584"
   },
   {
     "url": "zh/spring/java-collection.html",
-    "revision": "9cd1b28c6936df4da1eca9d1131a7089"
+    "revision": "e0915bdfed52031fc5e6fe36b9d4fc96"
   },
   {
     "url": "zh/spring/java-current.html",
-    "revision": "ee22582bdc69529a3a84c077ac19b601"
+    "revision": "8f3b420bca19e6a41cdc5f9da176b687"
   },
   {
     "url": "zh/spring/java-io.html",
-    "revision": "3d0c54645657c135ed88836014dba036"
+    "revision": "634740cc9415079a7319c080df929064"
   },
   {
     "url": "zh/spring/java-jvm.html",
-    "revision": "d959bfaa6634e7f86f2dd58e0b73dba1"
+    "revision": "e660005dd8079c82fc0c50a6bfaf1809"
   },
   {
     "url": "zh/spring/markdown-slot.html",
-    "revision": "333a13074515b1227de38615cf8947a5"
+    "revision": "5e92001fe294180e5e7d0ef6e044ca0c"
   },
   {
     "url": "zh/spring/markdown.html",
-    "revision": "4785c75a19851cd2c3e53be97e2a8b64"
+    "revision": "4fd476a977ddac5bb51956cf8127c44b"
   },
   {
     "url": "zh/spring/mq-kafka.html",
-    "revision": "420ac66fd040428642712b8d33c2c1fe"
+    "revision": "40a0946888c0c6ddff7223975e5739b2"
   },
   {
     "url": "zh/spring/mq-rabbit.html",
-    "revision": "c81b7d0bf7ff2c581379c6ed73784138"
+    "revision": "08d296a6d923c7e9b8f4d3bbabacdaac"
   },
   {
     "url": "zh/spring/mybatis-basics.html",
-    "revision": "082e1eec4570b153d317482f6fae9deb"
+    "revision": "c62d03f63797045bb5689bdb2acfbce8"
   },
   {
     "url": "zh/spring/permalinks.html",
-    "revision": "55f83f5f0a13319c0773b18d660ead6c"
+    "revision": "07ed3d564481f735df6a983c975b7bf0"
   },
   {
     "url": "zh/spring/spring-basics.html",
-    "revision": "14d6aded670f40a58feff15bd57080cb"
+    "revision": "f4cebe084b70abacd154c3310fe53ef0"
   },
   {
     "url": "zh/spring/spring-boot.html",
-    "revision": "e75cf2e9e199dd2d7e48b65ff19ade0e"
+    "revision": "7db097071d6ae004509956878d8e95ed"
   },
   {
     "url": "zh/spring/spring-cloud.html",
-    "revision": "e1622f59b7ff22229481b30b07497a63"
+    "revision": "61cc0666d29c3fcbf73eb83b52a625de"
   },
   {
     "url": "zh/spring/using-vue.html",
-    "revision": "7ff9a9244153d490a9d441953123c7fc"
+    "revision": "e9689a53717ade69b51d537456dd3dc9"
   },
   {
     "url": "zh/structure/assets.html",
-    "revision": "c56e7c5f6afb496e48f9905bfd0f12be"
+    "revision": "47e249f9a5c41fc20bc6165eaea4f352"
   },
   {
     "url": "zh/structure/basic-config.html",
-    "revision": "6f4f943361134df6a800492b122d6c10"
+    "revision": "15d884b0e9e302bb7bd95c5d7d1bceed"
   },
   {
     "url": "zh/structure/build-basics.html",
-    "revision": "4394f3f011fc28e536d5825c0dc0e76f"
+    "revision": "762ba35afa88296af99bfb8fdd8111b0"
   },
   {
     "url": "zh/structure/build-demo.html",
-    "revision": "562e8b68c541af8129079dee8833ffec"
+    "revision": "0bc3e7432d30dc3c7981997a6a74b4ae"
   },
   {
     "url": "zh/structure/build-tech.html",
-    "revision": "1476edc271cd8f6af09cf7bbfaba5036"
+    "revision": "bbc7e3f944a0229a92f35e182f49c03b"
   },
   {
     "url": "zh/structure/compute-introduce.html",
-    "revision": "21e7827581996adae97cd61e39d740ed"
+    "revision": "73d42176ce8ce3ab1ee7166e5ded8d3c"
   },
   {
     "url": "zh/structure/computer-http.html",
-    "revision": "7b72967130910a7b8d37ef95d690e4c5"
+    "revision": "c4c558388f881b56a9ae3b487f21ba3a"
   },
   {
     "url": "zh/structure/computer-linux.html",
-    "revision": "ad24a579aa80ce3e4cf1779f6505cd4a"
+    "revision": "41660ab6307e8e27e71651d47f7fa40b"
   },
   {
     "url": "zh/structure/computer-network.html",
-    "revision": "125a74bc4ad5c8aa06c3a1ea82f13ac1"
+    "revision": "51eb0f984e20558a82f86e1981eecf27"
   },
   {
     "url": "zh/structure/computer-socket.html",
-    "revision": "54372cf19a089ebe9b11447f025bef64"
+    "revision": "e94b62275c1e60363279274cf6556f8f"
   },
   {
     "url": "zh/structure/computer-system.html",
-    "revision": "700c5a4ad6a50da7a18bd9bb9ce719c8"
+    "revision": "1fe5687336c1e5782b372a80f57c7669"
   },
   {
     "url": "zh/structure/data-struct.html",
-    "revision": "38d5499a981e8dd60c915c4083a41534"
+    "revision": "834afe32d6905b7838c02ecf6a92081d"
   },
   {
     "url": "zh/structure/database-basics.html",
-    "revision": "07d4f610b808cc91adbb805dec78a1ec"
+    "revision": "3f9214244099648ec37aad4da395d1c3"
   },
   {
     "url": "zh/structure/database-es.html",
-    "revision": "ac860e36483bf7d0ef3ee369f0a498d1"
+    "revision": "3ffa461eaef27d722cb24e57297b4ddb"
   },
   {
     "url": "zh/structure/database-mysql.html",
-    "revision": "26661c8fcd3a542ad5f97d6513e24a35"
+    "revision": "d77ebb8daa4506cd820ede2126d83f69"
   },
   {
     "url": "zh/structure/database-redis.html",
-    "revision": "b26a496954c8220d75c5f6ee31f1ba15"
+    "revision": "3ebcd0c78b51291d5368cde4b35b6127"
   },
   {
     "url": "zh/structure/database-sql.html",
-    "revision": "e29038db0206d7bbe814589992024213"
+    "revision": "a4d1eee36918f1974809f3fa3f68cb5f"
   },
   {
     "url": "zh/structure/deploy.html",
-    "revision": "53feac68ec74fa158bd428a137f97912"
+    "revision": "807d5ef0ff78820db5a636c6d4cd14a6"
   },
   {
     "url": "zh/structure/directory-structure.html",
-    "revision": "64acdb56ad6a014fa2dd0ccb1a5a602a"
+    "revision": "a8d047a3a6e9b72e97313ef75f87084c"
   },
   {
     "url": "zh/structure/docker.html",
-    "revision": "44bd7468d2a48333ed5ab5fa116e395e"
+    "revision": "f67e072b711dc9d669f7de8c4b7514f5"
   },
   {
     "url": "zh/structure/frontmatter.html",
-    "revision": "106dfd5c0d8a9bb6e465153c55c57b6a"
+    "revision": "7044181f8ef72bfceb676db320db7008"
   },
   {
     "url": "zh/structure/getting-started.html",
-    "revision": "edb131002151e7eeb44c116b424be786"
+    "revision": "5a26478425dc25c195515cd297ba5fac"
   },
   {
     "url": "zh/structure/global-computed.html",
-    "revision": "bd74802bd1eeccfcdb3b57c336df5ce7"
+    "revision": "55c0ef2604cf9eccab7db18d0cff5468"
   },
   {
     "url": "zh/structure/i18n.html",
-    "revision": "27b5eed2fb8f56d8715af46620a44b81"
+    "revision": "091a3c593b6419a93b6938ac365fc7f4"
   },
   {
     "url": "zh/structure/index.html",
-    "revision": "9e1c8a09960caa7eabc6f0b543a7bcc1"
+    "revision": "41160d39181780fca85c468cb3cf097d"
   },
   {
     "url": "zh/structure/internal-sort.html",
-    "revision": "18abd1a62ad1685258e275d0b2db47ca"
+    "revision": "525c2afb30c5620e7772e4273ddfbadb"
   },
   {
     "url": "zh/structure/java-8.html",
-    "revision": "93f8849e40efa7d5d3ec76ff31909d1f"
+    "revision": "9ac7bd5652a67c62acdd99aa8c40e133"
   },
   {
     "url": "zh/structure/java-basics.html",
-    "revision": "82ac928cf41378591a9ab8bbe7964ebd"
+    "revision": "8a5419a037d4342cd4dda2601c1a15ee"
   },
   {
     "url": "zh/structure/java-collection.html",
-    "revision": "bebfbc1b45c8e0d7d7511cc69925bab2"
+    "revision": "806ce10138dcd8b80595c1ffdb7514d9"
   },
   {
     "url": "zh/structure/java-current.html",
-    "revision": "7c23f3a8e5bb1b9f39a98151289891f9"
+    "revision": "011fe576da2e1de4d16f23da103c55a1"
   },
   {
     "url": "zh/structure/java-io.html",
-    "revision": "38b1a1f77a1588a3cecc8bffd0fe622a"
+    "revision": "4484604e8bbb63fdbcbb2da22135c80f"
   },
   {
     "url": "zh/structure/java-jvm.html",
-    "revision": "c86cdf6d6dbc960a882e93520b6a42b1"
+    "revision": "e434527d0074785d069ec30c0b6a5db1"
   },
   {
     "url": "zh/structure/markdown-slot.html",
-    "revision": "dbfee6317f8b7a4ee295aac9db2d924c"
+    "revision": "79a58f5cc59f4f8b25067483fd917867"
   },
   {
     "url": "zh/structure/markdown.html",
-    "revision": "8370236f848c838b71475459f582e940"
+    "revision": "bf817fa33c03b8e1e18a766c86b238ad"
   },
   {
     "url": "zh/structure/mq-kafka.html",
-    "revision": "d3548fcdf4bfb370456c3ed4a7b8aab2"
+    "revision": "1ec72ec7a894200392da75e1bc909f0d"
   },
   {
     "url": "zh/structure/mq-rabbit.html",
-    "revision": "fc2522e0f12633ecc1464523fca46e7b"
+    "revision": "64eb9ac14630d288a5fda348789bfe39"
   },
   {
     "url": "zh/structure/mybatis-basics.html",
-    "revision": "dea964be7b63b496e21dd5cb1fcdf1e6"
+    "revision": "3aadcef4111e34fef2fbb5d9bd7fd8d7"
   },
   {
     "url": "zh/structure/permalinks.html",
-    "revision": "202f4b14b8b104218112def413951914"
+    "revision": "e8e74979dfa601f83ade7f757b832527"
   },
   {
     "url": "zh/structure/spring-basics.html",
-    "revision": "71d906c32ea91a357fb593e913836463"
+    "revision": "6cd21ee088480a2be935047c17385365"
   },
   {
     "url": "zh/structure/spring-boot.html",
-    "revision": "12e19f6d352abbf5f82f26acd1f61b0a"
+    "revision": "5c7c92e88577e00adffc1facfb3df4cf"
   },
   {
     "url": "zh/structure/spring-cloud.html",
-    "revision": "9198a88d8653bbd3b1ea49e2d24dcd33"
+    "revision": "32410948667f6981245b599c23baf2cb"
   },
   {
     "url": "zh/structure/using-vue.html",
-    "revision": "ccde8dbc35db0d2b49ae63d5440a3c78"
+    "revision": "e21824326cda1c54f4a7a4b78aa8b20b"
   },
   {
     "url": "zh/theme/assets.html",
-    "revision": "a0652e755c82d71b1b93e116f6caeef5"
+    "revision": "2f6cb79ff0c853ca2bfdb76ba4ce8252"
   },
   {
     "url": "zh/theme/basic-config.html",
-    "revision": "718f2fc02fdfb64b4a24b5d1f108b553"
+    "revision": "60d7a37c3671017d038aa5d0dd56fe67"
   },
   {
     "url": "zh/theme/blog-theme.html",
-    "revision": "08b9dcae302ed88e96af2371df10bdc2"
+    "revision": "7321e46b269b1895fae4c68bb3af3454"
   },
   {
     "url": "zh/theme/build-basics.html",
-    "revision": "e663360975b1169c4ee3c63e157f326a"
+    "revision": "7ebfd04b19917ff2d3c384e746bc8e97"
   },
   {
     "url": "zh/theme/build-demo.html",
-    "revision": "e26638f61f26e0fe8bf69714531386e5"
+    "revision": "fd10c87993e0f61f03c18f42fafaf80f"
   },
   {
     "url": "zh/theme/build-tech.html",
-    "revision": "3773e6d6f2b2cafa8b760201d2bbbf40"
+    "revision": "963b705f78e4df8afb00c607fe329f86"
   },
   {
     "url": "zh/theme/compute-introduce.html",
-    "revision": "a0e525e02f63b0f02ef2326b9171fe23"
+    "revision": "7945b3e71ae5419ac28907841cb84d0b"
   },
   {
     "url": "zh/theme/computer-http.html",
-    "revision": "e84e01ebefaf24e936ebbcd23b9ec4c4"
+    "revision": "851556eee0c9c21189ea4257cea1e0e9"
   },
   {
     "url": "zh/theme/computer-linux.html",
-    "revision": "8c960d08e5282bd1c49d948377c68f4c"
+    "revision": "4b33080087e761eb447af6b37bd88eb8"
   },
   {
     "url": "zh/theme/computer-network.html",
-    "revision": "ed1e691f6d326270dd3c4982f5477812"
+    "revision": "6cbefdff4885231875f20cbdf578f5ed"
   },
   {
     "url": "zh/theme/computer-socket.html",
-    "revision": "1f3313b3f5ae2e23f763b8e9535f009e"
+    "revision": "b43350a8ab95e629785a1e7dd5431cd4"
   },
   {
     "url": "zh/theme/computer-system.html",
-    "revision": "fd7ab2118c3c32ce014e9e82a4a08b08"
+    "revision": "700a07777cd48298ade8c2dc785ff41b"
   },
   {
     "url": "zh/theme/data-struct.html",
-    "revision": "8902cc88d6a2bd38e5101811276a311d"
+    "revision": "19b57320ffd0548d29fb107df68a1036"
   },
   {
     "url": "zh/theme/database-basics.html",
-    "revision": "4eb75f028ec826066756bf900babd802"
+    "revision": "10f5096bde0a0e89591078c9e71a2e94"
   },
   {
     "url": "zh/theme/database-es.html",
-    "revision": "ec25db04a313a494c27a7a7e871c4494"
+    "revision": "90e4659a8cc35897bdd65443325c9433"
   },
   {
     "url": "zh/theme/database-mysql.html",
-    "revision": "746fa17cf2cfa1a0298bfa4748dfbda9"
+    "revision": "9eaafd1b677bc8a61b9aaa55cd08e04b"
   },
   {
     "url": "zh/theme/database-redis.html",
-    "revision": "4f3d0cdb147eaeeb8800978a051fa240"
+    "revision": "c343512c150dc88eaf307543723199ad"
   },
   {
     "url": "zh/theme/database-sql.html",
-    "revision": "740d0137131669c6525db8cf046cd1cc"
+    "revision": "41bccaef6c8d239898c9f7448d95b6ac"
   },
   {
     "url": "zh/theme/default-theme-config.html",
-    "revision": "28588ec842a2d4e3f90ca016dbf52671"
+    "revision": "cf50a985f2fe22cc23a2dece0fd74062"
   },
   {
     "url": "zh/theme/deploy.html",
-    "revision": "87b61f295f64da8e416f50ccc714f9e2"
+    "revision": "b610209c3a86bd86001c18102fcbae40"
   },
   {
     "url": "zh/theme/directory-structure.html",
-    "revision": "d2f32210bddca74ef3b75d675807c3a2"
+    "revision": "5a1965895c622e23fee9b701d0fc3c72"
   },
   {
     "url": "zh/theme/docker.html",
-    "revision": "a6db4fea56c05a9370ed7f4c083bf4a4"
+    "revision": "041300056c61b7f57ad70a4302982874"
   },
   {
     "url": "zh/theme/frontmatter.html",
-    "revision": "107bc1adbb7af7631aff9b063cc9e6a9"
+    "revision": "669a33d799148545bdba4a72db7b7930"
   },
   {
     "url": "zh/theme/getting-started.html",
-    "revision": "46d163c26a16da3c67fad86522e407b3"
+    "revision": "adca58d2b2e18ce70dbdeff0086ae2e7"
   },
   {
     "url": "zh/theme/global-computed.html",
-    "revision": "2f55baea8d3cd624c61c8c7956d6dbcf"
+    "revision": "76ba5ce2c919b0a9876b756d2303def6"
   },
   {
     "url": "zh/theme/i18n.html",
-    "revision": "d1b4bed00a4159a81734b80fac70978d"
+    "revision": "36073f61b2985f97ad1647df58be5008"
   },
   {
     "url": "zh/theme/index.html",
-    "revision": "8dd4292f0d0637d48eda53ec7d6d12b9"
+    "revision": "5da4d4c7152950c67311a385179d7586"
   },
   {
     "url": "zh/theme/inheritance.html",
-    "revision": "36eb356d1734226e9626f6ba619e25ce"
+    "revision": "37f3c03bfee773741de94f1e16693ba0"
   },
   {
     "url": "zh/theme/internal-sort.html",
-    "revision": "24fd90e8b2f20a87d79caf3a591f2a50"
+    "revision": "ab23b3d9e4f0629453ac7d1649157206"
   },
   {
     "url": "zh/theme/java-8.html",
-    "revision": "5c152d310e7211b4dbeebb591f1792c8"
+    "revision": "c81fd2f6534949ac285aca6efd0b95f8"
   },
   {
     "url": "zh/theme/java-basics.html",
-    "revision": "57f7854a76d583b476c09293b6359d5f"
+    "revision": "5bc490bcf6d290478984ea836200b5a0"
   },
   {
     "url": "zh/theme/java-collection.html",
-    "revision": "3fcba084e095859b7ed36c083f51393f"
+    "revision": "df769d0bdadf774d2876dbc85768599b"
   },
   {
     "url": "zh/theme/java-current.html",
-    "revision": "a2b12103a9d0fdcc1e90e4f81c1da160"
+    "revision": "d97295e192edb215922f991374967040"
   },
   {
     "url": "zh/theme/java-io.html",
-    "revision": "84665128cc396c5db0d95dc0d4bb77e8"
+    "revision": "1cb5b586bdc552f2fbe47deee06ba7af"
   },
   {
     "url": "zh/theme/java-jvm.html",
-    "revision": "f81cba7b4cc20e43c47cf5ee3cdc6ef9"
+    "revision": "db275903151087842d82965bd49152dd"
   },
   {
     "url": "zh/theme/markdown-slot.html",
-    "revision": "f0c510fccfff579faa247a2f7d78600b"
+    "revision": "39c1fa7300004459e6470f9e5c9fb0b4"
   },
   {
     "url": "zh/theme/markdown.html",
-    "revision": "fef682bc7bc4656f51ff162a826aca66"
+    "revision": "7f36c84f56971bd9d6866cdf3f0aaa0c"
   },
   {
     "url": "zh/theme/mq-kafka.html",
-    "revision": "1fac8d9c08116d9221262d0fdf4f4fab"
+    "revision": "fb91bdac624b33186fa60a28f75f6a4c"
   },
   {
     "url": "zh/theme/mq-rabbit.html",
-    "revision": "771cfd87e79fc30fee5dccb1bdb66c7e"
+    "revision": "1528ff0b185d3607040a15c32723e86a"
   },
   {
     "url": "zh/theme/mybatis-basics.html",
-    "revision": "f58f058ebc68a991802e4d15ce99a69d"
+    "revision": "b4368c89deca98801c8a7f13aed448df"
   },
   {
     "url": "zh/theme/option-api.html",
-    "revision": "6ae6b9a6a1b7e533e6411706ee7f81ec"
+    "revision": "0e27170033662be01329dc4851257a95"
   },
   {
     "url": "zh/theme/permalinks.html",
-    "revision": "e64e3b7f7f4042b72934c543c8b48f97"
+    "revision": "1c86dad71c5c85213bcc75d529f062ae"
   },
   {
     "url": "zh/theme/spring-basics.html",
-    "revision": "296dfb4035d82f699194b0ce6aaba44c"
+    "revision": "6e189a952ead0de3fdfefc684cfcfc6a"
   },
   {
     "url": "zh/theme/spring-boot.html",
-    "revision": "454bc15298b2cecc733a6178575423e0"
+    "revision": "b5421f1f11022b05a11314172d146ddb"
   },
   {
     "url": "zh/theme/spring-cloud.html",
-    "revision": "e2252284e2379a6ab88b2a6c3c599569"
+    "revision": "679fdee7da72e6409ed99fe40b4f8068"
   },
   {
     "url": "zh/theme/using-a-theme.html",
-    "revision": "aa4c2dcd1d20a0e91f0423b6da59a68f"
+    "revision": "2cb01cd7ccad996f7c21b17ab49f28fe"
   },
   {
     "url": "zh/theme/using-vue.html",
-    "revision": "d43681491719639776bea98dcfe9e138"
+    "revision": "1b661aee6c4fbb9efc33467e96292d6d"
   },
   {
     "url": "zh/theme/writing-a-theme.html",
-    "revision": "0a314887386f680ec6ac0bb2add9fad5"
+    "revision": "0ba1f45f322214661126307686a4d85a"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
