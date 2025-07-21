@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mlionxy/yiqun.git"
+    "url": "git+https://github.com/yiguangchao/yiqun.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mlionxy/yiqun/issues"
+    "url": "https://github.com/yiguangchao/yiqun/issues"
   },
-  "homepage": "https://github.com/mlionxy/yiqun#readme",
+  "homepage": "https://github.com/yiguangchao/yiqun#readme",
   "dependencies": {
     "vuepress": "^1.8.2"
   },
